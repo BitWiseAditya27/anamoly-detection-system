@@ -1,0 +1,2001 @@
+timestamp,level,message,label
+2026-07-01 00:14:13,ERROR,Payment gateway timeout,1
+2026-07-01 00:16:56,INFO,API request received: GET /products,1
+2026-07-01 00:37:37,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 01:21:10,INFO,API request received: GET /products,1
+2026-07-01 01:26:38,ERROR,Brute force login pattern detected for user_952,-1
+2026-07-01 01:29:39,WARNING,Cache miss for key user_57,1
+2026-07-01 01:30:26,WARNING,Database connection retried,1
+2026-07-01 01:33:06,ERROR,Multiple failed login attempts for user_210,-1
+2026-07-01 01:34:47,INFO,Cache refreshed successfully,1
+2026-07-01 01:41:36,INFO,User login successful for user_548,1
+2026-07-01 01:48:06,WARNING,Database connection retried,1
+2026-07-01 01:49:27,INFO,User login successful for user_181,1
+2026-07-01 01:51:36,ERROR,Brute force login pattern detected for user_720,-1
+2026-07-01 01:56:29,INFO,Database connection established,1
+2026-07-01 01:59:51,ERROR,Brute force login pattern detected for user_151,-1
+2026-07-01 02:06:26,WARNING,Cache miss for key user_495,1
+2026-07-01 02:10:50,INFO,API request received: GET /products,1
+2026-07-01 02:21:47,INFO,API request received: GET /users,1
+2026-07-01 02:22:41,ERROR,Brute force login pattern detected for user_348,-1
+2026-07-01 02:26:56,INFO,API request received: POST /orders,1
+2026-07-01 02:49:41,INFO,API request received: POST /orders,1
+2026-07-01 02:57:00,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 03:10:26,WARNING,Slow query detected: 493ms,1
+2026-07-01 03:28:23,INFO,Config file accessed outside business hours,-1
+2026-07-01 03:36:32,ERROR,Brute force login pattern detected for user_646,-1
+2026-07-01 03:40:13,INFO,Database connection established,1
+2026-07-01 03:44:27,INFO,API request received: GET /users,1
+2026-07-01 03:47:41,WARNING,Cache miss for key user_951,1
+2026-07-01 03:51:48,WARNING,Cache miss for key user_742,1
+2026-07-01 03:58:23,INFO,Health check passed,1
+2026-07-01 04:08:53,INFO,Health check passed,1
+2026-07-01 04:14:09,INFO,Cache refreshed successfully,1
+2026-07-01 04:16:08,WARNING,Cache miss for key user_288,1
+2026-07-01 04:37:26,INFO,Database connection established,1
+2026-07-01 04:45:54,INFO,Cache refreshed successfully,1
+2026-07-01 04:53:40,WARNING,Database connection retried,1
+2026-07-01 04:59:53,WARNING,Unusual outbound traffic detected: 400MB,-1
+2026-07-01 05:04:32,INFO,User login successful for user_286,1
+2026-07-01 05:22:56,INFO,Health check passed,1
+2026-07-01 05:25:09,ERROR,Payment gateway timeout,1
+2026-07-01 05:28:58,ERROR,Privilege escalation attempt blocked,-1
+2026-07-01 05:33:12,ERROR,Suspicious IP access blocked from 192.168.601.80,-1
+2026-07-01 05:34:45,ERROR,Suspicious IP access blocked from 192.168.615.61,-1
+2026-07-01 05:37:38,ERROR,Brute force login pattern detected for user_111,-1
+2026-07-01 05:50:27,WARNING,Slow query detected: 219ms,1
+2026-07-01 06:05:35,INFO,Database connection established,1
+2026-07-01 06:05:48,INFO,API request received: POST /orders,1
+2026-07-01 06:12:31,INFO,Cache refreshed successfully,1
+2026-07-01 06:14:36,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 06:18:46,WARNING,Unusual outbound traffic detected: 536MB,-1
+2026-07-01 06:32:18,ERROR,Database connection failed,1
+2026-07-01 06:44:08,ERROR,Privilege escalation attempt blocked,-1
+2026-07-01 06:45:39,INFO,Config file accessed outside business hours,-1
+2026-07-01 06:49:20,INFO,API request received: GET /users,1
+2026-07-01 06:50:31,INFO,API request received: POST /orders,1
+2026-07-01 07:04:52,INFO,Health check passed,1
+2026-07-01 07:21:03,ERROR,Brute force login pattern detected for user_531,-1
+2026-07-01 07:21:21,ERROR,Rate limit exceeded for user_192,-1
+2026-07-01 07:36:08,INFO,API request received: GET /users,1
+2026-07-01 07:49:08,ERROR,Payment gateway timeout,1
+2026-07-01 07:51:29,INFO,API request received: GET /users,1
+2026-07-01 07:55:07,ERROR,Suspicious IP access blocked from 192.168.907.109,-1
+2026-07-01 08:09:46,WARNING,Unusual outbound traffic detected: 86MB,-1
+2026-07-01 08:12:48,WARNING,Slow query detected: 515ms,1
+2026-07-01 08:17:54,ERROR,Multiple failed login attempts for user_671,-1
+2026-07-01 08:18:46,WARNING,Database connection retried,1
+2026-07-01 08:20:12,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 08:22:07,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 08:29:15,INFO,User login successful for user_598,1
+2026-07-01 08:29:32,ERROR,Payment gateway timeout,1
+2026-07-01 08:32:48,INFO,API request received: GET /users,1
+2026-07-01 08:52:46,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 08:54:45,WARNING,Slow query detected: 376ms,1
+2026-07-01 09:00:25,INFO,API request received: GET /users,1
+2026-07-01 09:00:54,INFO,API request received: POST /orders,1
+2026-07-01 09:01:05,INFO,User login successful for user_239,1
+2026-07-01 09:03:37,WARNING,Slow query detected: 515ms,1
+2026-07-01 09:04:24,ERROR,Database connection failed,1
+2026-07-01 09:04:30,INFO,API request received: GET /users,1
+2026-07-01 09:05:02,ERROR,Database connection failed,1
+2026-07-01 09:06:34,INFO,Database connection established,1
+2026-07-01 09:07:47,ERROR,Database connection failed,1
+2026-07-01 09:08:00,INFO,Cache refreshed successfully,1
+2026-07-01 09:13:52,INFO,Database connection established,1
+2026-07-01 09:18:12,ERROR,Payment gateway timeout,1
+2026-07-01 09:21:52,INFO,User login successful for user_697,1
+2026-07-01 09:23:59,INFO,Cache refreshed successfully,1
+2026-07-01 09:26:06,WARNING,Database connection retried,1
+2026-07-01 09:30:59,INFO,Cache refreshed successfully,1
+2026-07-01 09:32:06,WARNING,Database connection retried,1
+2026-07-01 09:32:06,INFO,API request received: POST /orders,1
+2026-07-01 09:33:57,INFO,Database connection established,1
+2026-07-01 09:33:59,WARNING,Database connection retried,1
+2026-07-01 09:39:29,ERROR,Brute force login pattern detected for user_161,-1
+2026-07-01 09:39:59,INFO,Health check passed,1
+2026-07-01 09:40:14,ERROR,Payment gateway timeout,1
+2026-07-01 09:41:39,WARNING,Slow query detected: 333ms,1
+2026-07-01 09:51:20,INFO,Health check passed,1
+2026-07-01 09:57:02,WARNING,Cache miss for key user_273,1
+2026-07-01 09:58:02,INFO,Health check passed,1
+2026-07-01 09:58:07,INFO,Health check passed,1
+2026-07-01 09:58:51,WARNING,Slow query detected: 57ms,1
+2026-07-01 09:59:40,ERROR,Database connection failed,1
+2026-07-01 09:59:57,INFO,API request received: GET /users,1
+2026-07-01 10:00:16,INFO,User login successful for user_41,1
+2026-07-01 10:05:21,ERROR,Payment gateway timeout,1
+2026-07-01 10:05:54,WARNING,Cache miss for key user_134,1
+2026-07-01 10:07:52,INFO,API request received: POST /orders,1
+2026-07-01 10:10:36,INFO,API request received: GET /products,1
+2026-07-01 10:14:06,INFO,Database connection established,1
+2026-07-01 10:16:06,INFO,User login successful for user_744,1
+2026-07-01 10:17:09,ERROR,Database connection failed,1
+2026-07-01 10:18:17,INFO,API request received: POST /orders,1
+2026-07-01 10:18:28,WARNING,Database connection retried,1
+2026-07-01 10:18:43,ERROR,Database connection failed,1
+2026-07-01 10:19:50,INFO,Health check passed,1
+2026-07-01 10:20:10,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 10:22:15,ERROR,Payment gateway timeout,1
+2026-07-01 10:23:19,INFO,Cache refreshed successfully,1
+2026-07-01 10:23:58,INFO,Cache refreshed successfully,1
+2026-07-01 10:24:08,ERROR,Suspicious IP access blocked from 192.168.166.134,-1
+2026-07-01 10:25:23,INFO,Cache refreshed successfully,1
+2026-07-01 10:27:38,INFO,API request received: POST /orders,1
+2026-07-01 10:30:53,WARNING,Cache miss for key user_892,1
+2026-07-01 10:31:12,WARNING,Cache miss for key user_205,1
+2026-07-01 10:32:43,INFO,API request received: GET /products,1
+2026-07-01 10:33:00,INFO,Health check passed,1
+2026-07-01 10:36:05,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 10:37:46,INFO,Health check passed,1
+2026-07-01 10:39:14,INFO,API request received: GET /users,1
+2026-07-01 10:43:42,WARNING,Slow query detected: 629ms,1
+2026-07-01 10:44:43,INFO,User login successful for user_345,1
+2026-07-01 10:49:51,INFO,User login successful for user_215,1
+2026-07-01 10:49:51,INFO,Cache refreshed successfully,1
+2026-07-01 10:51:53,ERROR,Database connection failed,1
+2026-07-01 10:52:42,INFO,API request received: GET /products,1
+2026-07-01 10:54:29,WARNING,Slow query detected: 429ms,1
+2026-07-01 10:55:02,INFO,Health check passed,1
+2026-07-01 10:58:05,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 10:58:07,WARNING,Cache miss for key user_686,1
+2026-07-01 10:58:24,INFO,Database connection established,1
+2026-07-01 11:00:25,ERROR,Database connection failed,1
+2026-07-01 11:00:31,INFO,User login successful for user_351,1
+2026-07-01 11:00:35,INFO,API request received: POST /orders,1
+2026-07-01 11:01:29,ERROR,Payment gateway timeout,1
+2026-07-01 11:02:52,ERROR,Payment gateway timeout,1
+2026-07-01 11:03:42,INFO,API request received: GET /products,1
+2026-07-01 11:04:08,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 11:05:15,INFO,API request received: GET /users,1
+2026-07-01 11:06:13,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 11:07:44,INFO,Database connection established,1
+2026-07-01 11:08:16,INFO,Cache refreshed successfully,1
+2026-07-01 11:08:34,INFO,Database connection established,1
+2026-07-01 11:09:22,WARNING,Database connection retried,1
+2026-07-01 11:17:02,INFO,API request received: GET /products,1
+2026-07-01 11:17:28,WARNING,Database connection retried,1
+2026-07-01 11:17:56,ERROR,Database connection failed,1
+2026-07-01 11:22:56,INFO,Database connection established,1
+2026-07-01 11:26:12,ERROR,Database connection failed,1
+2026-07-01 11:28:22,ERROR,Payment gateway timeout,1
+2026-07-01 11:28:29,INFO,Cache refreshed successfully,1
+2026-07-01 11:29:40,ERROR,Database connection failed,1
+2026-07-01 11:33:40,ERROR,Payment gateway timeout,1
+2026-07-01 11:34:20,INFO,Cache refreshed successfully,1
+2026-07-01 11:34:46,INFO,User login successful for user_168,1
+2026-07-01 11:35:46,WARNING,Cache miss for key user_541,1
+2026-07-01 11:36:25,INFO,API request received: GET /users,1
+2026-07-01 11:40:16,INFO,API request received: POST /orders,1
+2026-07-01 11:43:59,WARNING,Database connection retried,1
+2026-07-01 11:48:26,INFO,API request received: POST /orders,1
+2026-07-01 11:49:08,ERROR,Database connection failed,1
+2026-07-01 11:50:16,WARNING,Database connection retried,1
+2026-07-01 11:53:37,INFO,API request received: GET /users,1
+2026-07-01 12:01:57,WARNING,Slow query detected: 192ms,1
+2026-07-01 12:06:07,INFO,API request received: GET /users,1
+2026-07-01 12:07:33,INFO,API request received: GET /users,1
+2026-07-01 12:08:12,INFO,Health check passed,1
+2026-07-01 12:08:21,INFO,User login successful for user_553,1
+2026-07-01 12:08:37,ERROR,Privilege escalation attempt blocked,-1
+2026-07-01 12:09:19,INFO,User login successful for user_981,1
+2026-07-01 12:09:25,WARNING,Database connection retried,1
+2026-07-01 12:11:12,INFO,API request received: GET /products,1
+2026-07-01 12:14:44,INFO,Cache refreshed successfully,1
+2026-07-01 12:19:07,INFO,API request received: GET /products,1
+2026-07-01 12:21:53,INFO,Cache refreshed successfully,1
+2026-07-01 12:25:07,WARNING,Cache miss for key user_253,1
+2026-07-01 12:26:31,INFO,API request received: GET /products,1
+2026-07-01 12:27:50,WARNING,Cache miss for key user_622,1
+2026-07-01 12:29:44,INFO,Database connection established,1
+2026-07-01 12:30:24,ERROR,Database connection failed,1
+2026-07-01 12:30:42,INFO,Database connection established,1
+2026-07-01 12:31:24,INFO,API request received: GET /users,1
+2026-07-01 12:33:43,WARNING,Slow query detected: 10ms,1
+2026-07-01 12:34:13,INFO,API request received: GET /products,1
+2026-07-01 12:36:54,INFO,Health check passed,1
+2026-07-01 12:39:02,ERROR,Payment gateway timeout,1
+2026-07-01 12:42:42,INFO,Cache refreshed successfully,1
+2026-07-01 12:43:19,INFO,User login successful for user_826,1
+2026-07-01 12:43:44,INFO,User login successful for user_820,1
+2026-07-01 12:44:52,WARNING,Database connection retried,1
+2026-07-01 12:44:59,WARNING,Slow query detected: 339ms,1
+2026-07-01 12:46:28,WARNING,Cache miss for key user_594,1
+2026-07-01 12:46:40,WARNING,Slow query detected: 609ms,1
+2026-07-01 12:47:09,INFO,API request received: GET /products,1
+2026-07-01 12:51:39,INFO,Health check passed,1
+2026-07-01 12:51:41,ERROR,Database connection failed,1
+2026-07-01 12:53:38,WARNING,Unusual outbound traffic detected: 804MB,-1
+2026-07-01 12:54:01,INFO,User login successful for user_493,1
+2026-07-01 12:56:27,INFO,API request received: POST /orders,1
+2026-07-01 12:58:52,INFO,Health check passed,1
+2026-07-01 13:00:27,INFO,Cache refreshed successfully,1
+2026-07-01 13:02:46,WARNING,Cache miss for key user_391,1
+2026-07-01 13:04:13,WARNING,Database connection retried,1
+2026-07-01 13:04:36,WARNING,Database connection retried,1
+2026-07-01 13:04:41,INFO,API request received: GET /users,1
+2026-07-01 13:07:40,WARNING,Slow query detected: 633ms,1
+2026-07-01 13:07:44,INFO,API request received: POST /orders,1
+2026-07-01 13:09:11,INFO,Database connection established,1
+2026-07-01 13:10:45,WARNING,Slow query detected: 879ms,1
+2026-07-01 13:14:56,WARNING,Cache miss for key user_717,1
+2026-07-01 13:15:14,INFO,API request received: POST /orders,1
+2026-07-01 13:16:57,INFO,API request received: POST /orders,1
+2026-07-01 13:25:05,INFO,Database connection established,1
+2026-07-01 13:28:03,WARNING,Cache miss for key user_5,1
+2026-07-01 13:28:26,INFO,Database connection established,1
+2026-07-01 13:29:40,INFO,API request received: POST /orders,1
+2026-07-01 13:30:49,INFO,User login successful for user_932,1
+2026-07-01 13:31:23,INFO,Cache refreshed successfully,1
+2026-07-01 13:32:19,ERROR,Database connection failed,1
+2026-07-01 13:34:18,INFO,API request received: GET /products,1
+2026-07-01 13:36:43,INFO,Health check passed,1
+2026-07-01 13:38:34,INFO,API request received: POST /orders,1
+2026-07-01 13:40:32,INFO,Cache refreshed successfully,1
+2026-07-01 13:41:50,WARNING,Cache miss for key user_592,1
+2026-07-01 13:41:56,WARNING,Slow query detected: 356ms,1
+2026-07-01 13:44:08,INFO,Database connection established,1
+2026-07-01 13:49:27,ERROR,Payment gateway timeout,1
+2026-07-01 13:55:04,INFO,Health check passed,1
+2026-07-01 13:58:06,INFO,API request received: GET /products,1
+2026-07-01 13:58:52,INFO,API request received: GET /users,1
+2026-07-01 14:00:45,ERROR,Database connection failed,1
+2026-07-01 14:01:13,WARNING,Cache miss for key user_148,1
+2026-07-01 14:01:19,INFO,Database connection established,1
+2026-07-01 14:03:06,INFO,Health check passed,1
+2026-07-01 14:07:02,INFO,API request received: POST /orders,1
+2026-07-01 14:07:15,INFO,Database connection established,1
+2026-07-01 14:07:51,WARNING,Database connection retried,1
+2026-07-01 14:07:55,INFO,Database connection established,1
+2026-07-01 14:08:38,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 14:09:05,ERROR,Payment gateway timeout,1
+2026-07-01 14:11:31,INFO,User login successful for user_364,1
+2026-07-01 14:13:18,ERROR,Brute force login pattern detected for user_437,-1
+2026-07-01 14:16:23,INFO,Cache refreshed successfully,1
+2026-07-01 14:21:25,ERROR,Payment gateway timeout,1
+2026-07-01 14:22:40,INFO,Database connection established,1
+2026-07-01 14:22:51,ERROR,Payment gateway timeout,1
+2026-07-01 14:24:46,ERROR,Payment gateway timeout,1
+2026-07-01 14:25:49,INFO,API request received: POST /orders,1
+2026-07-01 14:27:09,INFO,User login successful for user_544,1
+2026-07-01 14:28:15,ERROR,Database connection failed,1
+2026-07-01 14:29:09,INFO,User login successful for user_155,1
+2026-07-01 14:31:05,ERROR,Database connection failed,1
+2026-07-01 14:34:10,INFO,Health check passed,1
+2026-07-01 14:34:12,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 14:35:59,INFO,API request received: GET /users,1
+2026-07-01 14:36:36,INFO,API request received: POST /orders,1
+2026-07-01 14:36:55,ERROR,Database connection failed,1
+2026-07-01 14:38:16,INFO,API request received: GET /products,1
+2026-07-01 14:39:20,WARNING,Slow query detected: 920ms,1
+2026-07-01 14:42:16,INFO,Cache refreshed successfully,1
+2026-07-01 14:44:07,INFO,Cache refreshed successfully,1
+2026-07-01 14:44:57,WARNING,Database connection retried,1
+2026-07-01 14:48:14,ERROR,Multiple failed login attempts for user_108,-1
+2026-07-01 14:50:59,INFO,Health check passed,1
+2026-07-01 14:54:24,WARNING,Slow query detected: 471ms,1
+2026-07-01 14:55:24,INFO,API request received: GET /products,1
+2026-07-01 14:55:44,ERROR,Payment gateway timeout,1
+2026-07-01 14:57:24,INFO,Database connection established,1
+2026-07-01 14:58:51,WARNING,Cache miss for key user_227,1
+2026-07-01 15:02:35,WARNING,Database connection retried,1
+2026-07-01 15:03:10,WARNING,Cache miss for key user_799,1
+2026-07-01 15:05:58,WARNING,Slow query detected: 308ms,1
+2026-07-01 15:07:07,INFO,Cache refreshed successfully,1
+2026-07-01 15:08:06,INFO,API request received: GET /products,1
+2026-07-01 15:13:39,ERROR,Database connection failed,1
+2026-07-01 15:21:48,INFO,Database connection established,1
+2026-07-01 15:23:05,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 15:24:01,INFO,API request received: GET /users,1
+2026-07-01 15:25:44,WARNING,Cache miss for key user_105,1
+2026-07-01 15:25:45,WARNING,Cache miss for key user_998,1
+2026-07-01 15:27:23,INFO,Cache refreshed successfully,1
+2026-07-01 15:30:51,ERROR,Payment gateway timeout,1
+2026-07-01 15:32:23,INFO,API request received: GET /products,1
+2026-07-01 15:35:30,INFO,API request received: GET /products,1
+2026-07-01 15:36:32,INFO,Health check passed,1
+2026-07-01 15:38:16,INFO,API request received: POST /orders,1
+2026-07-01 15:39:53,INFO,User login successful for user_457,1
+2026-07-01 15:40:14,INFO,API request received: GET /products,1
+2026-07-01 15:40:58,INFO,Cache refreshed successfully,1
+2026-07-01 15:41:52,INFO,Database connection established,1
+2026-07-01 15:42:31,WARNING,Database connection retried,1
+2026-07-01 15:42:37,WARNING,Cache miss for key user_536,1
+2026-07-01 15:43:31,INFO,API request received: POST /orders,1
+2026-07-01 15:44:07,INFO,API request received: POST /orders,1
+2026-07-01 15:46:54,INFO,User login successful for user_60,1
+2026-07-01 15:53:37,WARNING,Slow query detected: 947ms,1
+2026-07-01 15:55:39,INFO,Health check passed,1
+2026-07-01 15:58:03,INFO,Database connection established,1
+2026-07-01 15:58:14,WARNING,Database connection retried,1
+2026-07-01 15:58:45,ERROR,Payment gateway timeout,1
+2026-07-01 16:01:21,INFO,User login successful for user_758,1
+2026-07-01 16:02:40,INFO,Health check passed,1
+2026-07-01 16:04:57,INFO,API request received: GET /users,1
+2026-07-01 16:06:27,INFO,Cache refreshed successfully,1
+2026-07-01 16:07:24,INFO,Database connection established,1
+2026-07-01 16:08:29,ERROR,Brute force login pattern detected for user_331,-1
+2026-07-01 16:08:57,ERROR,Database connection failed,1
+2026-07-01 16:11:03,INFO,API request received: GET /users,1
+2026-07-01 16:18:16,INFO,User login successful for user_3,1
+2026-07-01 16:19:44,WARNING,Cache miss for key user_978,1
+2026-07-01 16:20:26,INFO,API request received: POST /orders,1
+2026-07-01 16:25:30,INFO,Database connection established,1
+2026-07-01 16:25:56,INFO,Database connection established,1
+2026-07-01 16:29:52,INFO,API request received: GET /products,1
+2026-07-01 16:30:20,ERROR,Database connection failed,1
+2026-07-01 16:31:32,WARNING,Database connection retried,1
+2026-07-01 16:31:43,INFO,API request received: GET /users,1
+2026-07-01 16:35:03,INFO,API request received: GET /products,1
+2026-07-01 16:37:00,WARNING,Slow query detected: 895ms,1
+2026-07-01 16:38:28,INFO,API request received: POST /orders,1
+2026-07-01 16:38:56,ERROR,Database connection failed,1
+2026-07-01 16:42:35,ERROR,Database connection failed,1
+2026-07-01 16:43:01,INFO,API request received: POST /orders,1
+2026-07-01 16:48:23,ERROR,Payment gateway timeout,1
+2026-07-01 16:48:27,INFO,API request received: GET /products,1
+2026-07-01 16:48:36,WARNING,Slow query detected: 836ms,1
+2026-07-01 16:49:09,WARNING,Slow query detected: 951ms,1
+2026-07-01 16:50:27,WARNING,Cache miss for key user_635,1
+2026-07-01 16:56:44,INFO,API request received: POST /orders,1
+2026-07-01 17:06:03,ERROR,Database connection failed,1
+2026-07-01 17:11:01,INFO,Database connection established,1
+2026-07-01 17:12:31,WARNING,Slow query detected: 907ms,1
+2026-07-01 17:13:18,INFO,Database connection established,1
+2026-07-01 17:13:24,INFO,Health check passed,1
+2026-07-01 17:13:26,ERROR,Suspicious IP access blocked from 192.168.594.241,-1
+2026-07-01 17:16:08,INFO,Cache refreshed successfully,1
+2026-07-01 17:17:39,ERROR,Database connection failed,1
+2026-07-01 17:19:59,ERROR,Database connection failed,1
+2026-07-01 17:24:35,INFO,Health check passed,1
+2026-07-01 17:25:35,INFO,Cache refreshed successfully,1
+2026-07-01 17:26:16,INFO,User login successful for user_6,1
+2026-07-01 17:26:29,WARNING,Cache miss for key user_60,1
+2026-07-01 17:28:22,INFO,Database connection established,1
+2026-07-01 17:29:25,WARNING,Cache miss for key user_424,1
+2026-07-01 17:29:35,ERROR,Payment gateway timeout,1
+2026-07-01 17:33:44,INFO,User login successful for user_630,1
+2026-07-01 17:37:03,WARNING,Slow query detected: 122ms,1
+2026-07-01 17:37:51,INFO,API request received: GET /products,1
+2026-07-01 17:38:24,INFO,API request received: GET /users,1
+2026-07-01 17:39:11,INFO,User login successful for user_876,1
+2026-07-01 17:39:21,INFO,Database connection established,1
+2026-07-01 17:39:24,INFO,Database connection established,1
+2026-07-01 17:40:22,INFO,Health check passed,1
+2026-07-01 17:40:53,INFO,Database connection established,1
+2026-07-01 17:41:50,INFO,API request received: POST /orders,1
+2026-07-01 17:46:18,INFO,API request received: GET /products,1
+2026-07-01 17:48:17,WARNING,Slow query detected: 485ms,1
+2026-07-01 17:54:03,INFO,Health check passed,1
+2026-07-01 17:56:55,INFO,Health check passed,1
+2026-07-01 17:57:34,WARNING,Slow query detected: 670ms,1
+2026-07-01 18:02:44,INFO,API request received: GET /users,1
+2026-07-01 18:03:43,INFO,API request received: GET /users,1
+2026-07-01 18:04:02,INFO,Health check passed,1
+2026-07-01 18:06:01,INFO,User login successful for user_49,1
+2026-07-01 18:08:38,INFO,Health check passed,1
+2026-07-01 18:09:05,ERROR,Database connection failed,1
+2026-07-01 18:10:16,INFO,API request received: GET /users,1
+2026-07-01 18:11:26,INFO,API request received: GET /users,1
+2026-07-01 18:12:58,ERROR,Payment gateway timeout,1
+2026-07-01 18:14:01,WARNING,Database connection retried,1
+2026-07-01 18:14:28,ERROR,Privilege escalation attempt blocked,-1
+2026-07-01 18:18:41,INFO,API request received: POST /orders,1
+2026-07-01 18:19:05,INFO,User login successful for user_122,1
+2026-07-01 18:19:10,INFO,API request received: GET /users,1
+2026-07-01 18:19:21,INFO,API request received: GET /users,1
+2026-07-01 18:21:27,WARNING,Slow query detected: 479ms,1
+2026-07-01 18:21:55,INFO,API request received: GET /users,1
+2026-07-01 18:25:34,WARNING,Database connection retried,1
+2026-07-01 18:25:37,ERROR,Suspicious IP access blocked from 192.168.168.132,-1
+2026-07-01 18:25:49,WARNING,Cache miss for key user_218,1
+2026-07-01 18:27:32,ERROR,Database connection failed,1
+2026-07-01 18:30:44,INFO,Cache refreshed successfully,1
+2026-07-01 18:35:09,INFO,Health check passed,1
+2026-07-01 18:35:32,INFO,API request received: GET /users,1
+2026-07-01 18:38:25,INFO,Cache refreshed successfully,1
+2026-07-01 18:40:19,WARNING,Database connection retried,1
+2026-07-01 18:41:12,WARNING,Cache miss for key user_540,1
+2026-07-01 18:42:57,INFO,User login successful for user_974,1
+2026-07-01 18:43:10,WARNING,Database connection retried,1
+2026-07-01 18:47:00,WARNING,Slow query detected: 348ms,1
+2026-07-01 18:47:19,ERROR,Payment gateway timeout,1
+2026-07-01 18:48:57,INFO,API request received: GET /users,1
+2026-07-01 18:49:54,INFO,Cache refreshed successfully,1
+2026-07-01 18:49:59,WARNING,Database connection retried,1
+2026-07-01 18:51:19,ERROR,Payment gateway timeout,1
+2026-07-01 18:51:39,INFO,User login successful for user_65,1
+2026-07-01 18:55:05,INFO,Cache refreshed successfully,1
+2026-07-01 18:55:06,INFO,API request received: GET /users,1
+2026-07-01 19:00:10,INFO,API request received: GET /users,1
+2026-07-01 19:00:51,INFO,API request received: GET /users,1
+2026-07-01 19:02:48,INFO,API request received: GET /products,1
+2026-07-01 19:09:16,WARNING,Cache miss for key user_467,1
+2026-07-01 19:15:16,WARNING,Database connection retried,1
+2026-07-01 19:16:49,WARNING,Database connection retried,1
+2026-07-01 19:19:38,INFO,API request received: GET /users,1
+2026-07-01 19:19:52,ERROR,Payment gateway timeout,1
+2026-07-01 19:23:56,INFO,API request received: GET /products,1
+2026-07-01 19:26:16,WARNING,Database connection retried,1
+2026-07-01 19:26:43,INFO,Health check passed,1
+2026-07-01 19:26:56,WARNING,Slow query detected: 120ms,1
+2026-07-01 19:28:43,INFO,API request received: GET /users,1
+2026-07-01 19:29:26,INFO,Health check passed,1
+2026-07-01 19:31:29,WARNING,Cache miss for key user_779,1
+2026-07-01 19:35:49,INFO,API request received: POST /orders,1
+2026-07-01 19:37:37,WARNING,Cache miss for key user_73,1
+2026-07-01 19:42:58,WARNING,Database connection retried,1
+2026-07-01 19:43:41,INFO,Health check passed,1
+2026-07-01 19:45:55,INFO,API request received: GET /products,1
+2026-07-01 19:46:15,WARNING,Slow query detected: 626ms,1
+2026-07-01 19:47:19,INFO,API request received: GET /products,1
+2026-07-01 19:47:43,INFO,Database connection established,1
+2026-07-01 19:48:27,ERROR,Payment gateway timeout,1
+2026-07-01 19:49:13,ERROR,Database connection failed,1
+2026-07-01 19:50:53,WARNING,Slow query detected: 17ms,1
+2026-07-01 19:52:12,INFO,User login successful for user_722,1
+2026-07-01 19:53:01,INFO,API request received: GET /products,1
+2026-07-01 19:53:44,INFO,Database connection established,1
+2026-07-01 19:53:53,INFO,Cache refreshed successfully,1
+2026-07-01 19:54:58,WARNING,Slow query detected: 510ms,1
+2026-07-01 19:55:49,INFO,Database connection established,1
+2026-07-01 20:04:08,INFO,Database connection established,1
+2026-07-01 20:08:05,INFO,Database connection established,1
+2026-07-01 20:09:22,INFO,Database connection established,1
+2026-07-01 20:12:26,ERROR,Payment gateway timeout,1
+2026-07-01 20:12:47,INFO,Health check passed,1
+2026-07-01 20:13:27,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 20:15:30,INFO,Cache refreshed successfully,1
+2026-07-01 20:15:52,ERROR,Suspicious IP access blocked from 192.168.79.15,-1
+2026-07-01 20:17:44,INFO,Cache refreshed successfully,1
+2026-07-01 20:19:29,ERROR,Database connection failed,1
+2026-07-01 20:19:57,INFO,API request received: GET /products,1
+2026-07-01 20:20:13,INFO,Database connection established,1
+2026-07-01 20:21:51,INFO,API request received: GET /users,1
+2026-07-01 20:21:51,WARNING,Slow query detected: 532ms,1
+2026-07-01 20:21:58,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 20:24:41,INFO,Database connection established,1
+2026-07-01 20:24:59,INFO,Health check passed,1
+2026-07-01 20:27:26,WARNING,Slow query detected: 755ms,1
+2026-07-01 20:28:24,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 20:28:40,INFO,Cache refreshed successfully,1
+2026-07-01 20:32:06,WARNING,Database connection retried,1
+2026-07-01 20:34:03,INFO,Cache refreshed successfully,1
+2026-07-01 20:36:01,INFO,Database connection established,1
+2026-07-01 20:36:52,INFO,Database connection established,1
+2026-07-01 20:38:59,ERROR,Payment gateway timeout,1
+2026-07-01 20:41:44,WARNING,Database connection retried,1
+2026-07-01 20:43:47,WARNING,Slow query detected: 391ms,1
+2026-07-01 20:45:03,ERROR,Multiple failed login attempts for user_529,-1
+2026-07-01 20:48:21,INFO,API request received: POST /orders,1
+2026-07-01 20:49:30,INFO,API request received: POST /orders,1
+2026-07-01 20:50:06,INFO,Cache refreshed successfully,1
+2026-07-01 20:53:08,INFO,User login successful for user_115,1
+2026-07-01 20:55:33,INFO,API request received: GET /users,1
+2026-07-01 20:56:47,INFO,Health check passed,1
+2026-07-01 20:57:13,WARNING,Slow query detected: 422ms,1
+2026-07-01 20:59:30,ERROR,Rate limit exceeded for user_130,-1
+2026-07-01 21:02:36,WARNING,Slow query detected: 47ms,1
+2026-07-01 21:19:50,ERROR,Payment gateway timeout,1
+2026-07-01 21:24:30,INFO,API request received: GET /products,1
+2026-07-01 21:24:31,ERROR,Suspicious IP access blocked from 192.168.884.98,-1
+2026-07-01 21:27:36,INFO,Health check passed,1
+2026-07-01 21:35:20,ERROR,Rate limit exceeded for user_452,-1
+2026-07-01 21:40:31,INFO,API request received: GET /users,1
+2026-07-01 21:49:06,INFO,Database connection established,1
+2026-07-01 21:54:31,INFO,API request received: GET /products,1
+2026-07-01 21:57:45,ERROR,Unauthorized access attempt detected,-1
+2026-07-01 22:02:11,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 22:17:05,ERROR,Multiple failed login attempts for user_790,-1
+2026-07-01 22:24:17,INFO,API request received: POST /orders,1
+2026-07-01 22:46:58,ERROR,Malformed request payload from unknown source,-1
+2026-07-01 22:47:37,ERROR,Suspicious IP access blocked from 192.168.228.227,-1
+2026-07-01 22:52:17,WARNING,Cache miss for key user_42,1
+2026-07-01 22:54:34,INFO,Health check passed,1
+2026-07-01 22:54:57,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 23:04:28,ERROR,SQL injection pattern detected in request,-1
+2026-07-01 23:16:32,INFO,API request received: POST /orders,1
+2026-07-01 23:20:43,WARNING,Slow query detected: 240ms,1
+2026-07-01 23:42:52,INFO,Database connection established,1
+2026-07-01 23:43:34,WARNING,Cache miss for key user_259,1
+2026-07-01 23:51:42,WARNING,Database connection retried,1
+2026-07-02 00:23:57,WARNING,Database connection retried,1
+2026-07-02 00:26:02,INFO,API request received: GET /products,1
+2026-07-02 00:39:48,INFO,Database connection established,1
+2026-07-02 00:57:34,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 01:00:19,ERROR,Multiple failed login attempts for user_205,-1
+2026-07-02 01:04:04,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 01:05:46,WARNING,Slow query detected: 836ms,1
+2026-07-02 01:11:15,ERROR,Multiple failed login attempts for user_448,-1
+2026-07-02 01:11:55,WARNING,Cache miss for key user_712,1
+2026-07-02 01:29:07,ERROR,Database connection failed,1
+2026-07-02 01:31:35,ERROR,Brute force login pattern detected for user_214,-1
+2026-07-02 01:47:48,WARNING,Slow query detected: 937ms,1
+2026-07-02 01:57:39,ERROR,SQL injection pattern detected in request,-1
+2026-07-02 02:06:46,ERROR,Multiple failed login attempts for user_287,-1
+2026-07-02 02:40:32,INFO,Database connection established,1
+2026-07-02 02:46:18,ERROR,Payment gateway timeout,1
+2026-07-02 02:49:45,INFO,API request received: GET /products,1
+2026-07-02 02:55:53,INFO,Database connection established,1
+2026-07-02 03:14:46,ERROR,Payment gateway timeout,1
+2026-07-02 03:17:00,INFO,API request received: GET /users,1
+2026-07-02 03:24:23,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 03:34:07,INFO,API request received: GET /products,1
+2026-07-02 03:40:27,INFO,Cache refreshed successfully,1
+2026-07-02 03:55:10,INFO,API request received: POST /orders,1
+2026-07-02 04:21:31,INFO,Health check passed,1
+2026-07-02 04:23:51,ERROR,Database connection failed,1
+2026-07-02 04:44:45,WARNING,Database connection retried,1
+2026-07-02 04:44:58,WARNING,Slow query detected: 205ms,1
+2026-07-02 04:46:43,INFO,User login successful for user_429,1
+2026-07-02 04:49:50,INFO,Health check passed,1
+2026-07-02 05:05:51,WARNING,Cache miss for key user_681,1
+2026-07-02 05:22:46,ERROR,Database connection failed,1
+2026-07-02 05:36:40,WARNING,Cache miss for key user_936,1
+2026-07-02 05:41:05,INFO,User login successful for user_364,1
+2026-07-02 05:45:35,ERROR,Database connection failed,1
+2026-07-02 05:49:31,INFO,User login successful for user_232,1
+2026-07-02 05:53:52,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 06:24:28,ERROR,Database connection failed,1
+2026-07-02 06:45:18,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 07:11:57,ERROR,Payment gateway timeout,1
+2026-07-02 07:12:16,ERROR,Payment gateway timeout,1
+2026-07-02 07:16:26,WARNING,Unusual outbound traffic detected: 759MB,-1
+2026-07-02 07:17:12,INFO,API request received: GET /users,1
+2026-07-02 07:27:56,WARNING,Slow query detected: 434ms,1
+2026-07-02 07:28:43,WARNING,Unusual outbound traffic detected: 231MB,-1
+2026-07-02 07:32:01,WARNING,Slow query detected: 927ms,1
+2026-07-02 07:35:43,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 07:51:08,INFO,API request received: GET /users,1
+2026-07-02 08:04:46,ERROR,Payment gateway timeout,1
+2026-07-02 08:13:22,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 08:25:21,INFO,Health check passed,1
+2026-07-02 08:52:00,ERROR,Database connection failed,1
+2026-07-02 08:54:49,ERROR,SQL injection pattern detected in request,-1
+2026-07-02 09:00:28,INFO,Database connection established,1
+2026-07-02 09:02:54,INFO,API request received: GET /products,1
+2026-07-02 09:03:41,INFO,Cache refreshed successfully,1
+2026-07-02 09:04:45,ERROR,Database connection failed,1
+2026-07-02 09:05:19,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 09:05:26,ERROR,Payment gateway timeout,1
+2026-07-02 09:06:26,INFO,Cache refreshed successfully,1
+2026-07-02 09:06:27,WARNING,Slow query detected: 203ms,1
+2026-07-02 09:11:16,INFO,API request received: GET /products,1
+2026-07-02 09:12:06,WARNING,Slow query detected: 197ms,1
+2026-07-02 09:21:05,INFO,API request received: POST /orders,1
+2026-07-02 09:23:46,WARNING,Cache miss for key user_105,1
+2026-07-02 09:25:53,INFO,Health check passed,1
+2026-07-02 09:27:12,ERROR,Payment gateway timeout,1
+2026-07-02 09:30:06,INFO,Database connection established,1
+2026-07-02 09:36:22,WARNING,Database connection retried,1
+2026-07-02 09:36:31,ERROR,Payment gateway timeout,1
+2026-07-02 09:37:32,INFO,API request received: POST /orders,1
+2026-07-02 09:38:30,INFO,API request received: GET /products,1
+2026-07-02 09:38:45,INFO,API request received: GET /users,1
+2026-07-02 09:40:50,INFO,Database connection established,1
+2026-07-02 09:44:27,INFO,Cache refreshed successfully,1
+2026-07-02 09:46:31,INFO,API request received: GET /products,1
+2026-07-02 09:47:10,WARNING,Database connection retried,1
+2026-07-02 09:48:33,ERROR,Rate limit exceeded for user_514,-1
+2026-07-02 09:51:41,INFO,Database connection established,1
+2026-07-02 09:55:41,INFO,Cache refreshed successfully,1
+2026-07-02 09:57:20,WARNING,Database connection retried,1
+2026-07-02 09:59:35,ERROR,Database connection failed,1
+2026-07-02 10:02:20,WARNING,Cache miss for key user_130,1
+2026-07-02 10:04:19,INFO,Health check passed,1
+2026-07-02 10:06:10,WARNING,Database connection retried,1
+2026-07-02 10:06:19,ERROR,Payment gateway timeout,1
+2026-07-02 10:06:52,WARNING,Cache miss for key user_782,1
+2026-07-02 10:09:12,INFO,API request received: GET /products,1
+2026-07-02 10:11:53,INFO,Cache refreshed successfully,1
+2026-07-02 10:13:42,INFO,Cache refreshed successfully,1
+2026-07-02 10:13:55,INFO,Database connection established,1
+2026-07-02 10:19:53,ERROR,Database connection failed,1
+2026-07-02 10:20:21,WARNING,Cache miss for key user_498,1
+2026-07-02 10:21:59,INFO,User login successful for user_313,1
+2026-07-02 10:24:07,INFO,Database connection established,1
+2026-07-02 10:25:57,ERROR,Payment gateway timeout,1
+2026-07-02 10:26:26,INFO,Cache refreshed successfully,1
+2026-07-02 10:27:46,WARNING,Slow query detected: 319ms,1
+2026-07-02 10:29:51,ERROR,Database connection failed,1
+2026-07-02 10:32:49,WARNING,Database connection retried,1
+2026-07-02 10:34:07,ERROR,Database connection failed,1
+2026-07-02 10:36:23,INFO,API request received: POST /orders,1
+2026-07-02 10:39:55,INFO,Health check passed,1
+2026-07-02 10:39:56,INFO,Cache refreshed successfully,1
+2026-07-02 10:41:01,INFO,API request received: POST /orders,1
+2026-07-02 10:41:52,INFO,Database connection established,1
+2026-07-02 10:42:34,INFO,Health check passed,1
+2026-07-02 10:42:58,INFO,Cache refreshed successfully,1
+2026-07-02 10:43:27,INFO,User login successful for user_843,1
+2026-07-02 10:45:06,INFO,API request received: GET /products,1
+2026-07-02 10:47:35,INFO,API request received: POST /orders,1
+2026-07-02 10:47:38,INFO,Database connection established,1
+2026-07-02 10:48:03,INFO,API request received: GET /users,1
+2026-07-02 10:50:59,INFO,API request received: GET /users,1
+2026-07-02 10:51:50,INFO,API request received: POST /orders,1
+2026-07-02 10:51:54,INFO,API request received: GET /products,1
+2026-07-02 10:53:17,INFO,API request received: POST /orders,1
+2026-07-02 10:53:45,ERROR,Database connection failed,1
+2026-07-02 10:55:33,INFO,Database connection established,1
+2026-07-02 10:56:40,INFO,API request received: GET /users,1
+2026-07-02 10:57:03,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 10:57:36,ERROR,Database connection failed,1
+2026-07-02 11:01:02,ERROR,Database connection failed,1
+2026-07-02 11:01:16,INFO,Database connection established,1
+2026-07-02 11:02:08,INFO,User login successful for user_429,1
+2026-07-02 11:03:41,INFO,Cache refreshed successfully,1
+2026-07-02 11:08:17,INFO,Database connection established,1
+2026-07-02 11:08:40,WARNING,Database connection retried,1
+2026-07-02 11:10:20,WARNING,Database connection retried,1
+2026-07-02 11:13:08,INFO,API request received: GET /users,1
+2026-07-02 11:15:09,ERROR,Payment gateway timeout,1
+2026-07-02 11:15:17,INFO,API request received: GET /users,1
+2026-07-02 11:17:05,WARNING,Database connection retried,1
+2026-07-02 11:19:00,INFO,Health check passed,1
+2026-07-02 11:19:45,INFO,Health check passed,1
+2026-07-02 11:20:50,INFO,Health check passed,1
+2026-07-02 11:20:55,ERROR,Payment gateway timeout,1
+2026-07-02 11:20:59,ERROR,Payment gateway timeout,1
+2026-07-02 11:24:36,ERROR,Payment gateway timeout,1
+2026-07-02 11:25:02,INFO,Database connection established,1
+2026-07-02 11:25:26,ERROR,Payment gateway timeout,1
+2026-07-02 11:27:11,INFO,Database connection established,1
+2026-07-02 11:27:32,INFO,API request received: GET /products,1
+2026-07-02 11:28:53,WARNING,Database connection retried,1
+2026-07-02 11:31:50,INFO,API request received: GET /users,1
+2026-07-02 11:31:52,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 11:32:22,INFO,API request received: GET /products,1
+2026-07-02 11:34:49,WARNING,Database connection retried,1
+2026-07-02 11:38:15,INFO,Database connection established,1
+2026-07-02 11:38:31,INFO,API request received: GET /users,1
+2026-07-02 11:41:43,INFO,API request received: POST /orders,1
+2026-07-02 11:45:27,INFO,Health check passed,1
+2026-07-02 11:46:52,INFO,API request received: POST /orders,1
+2026-07-02 11:47:42,ERROR,Payment gateway timeout,1
+2026-07-02 11:50:19,WARNING,Cache miss for key user_767,1
+2026-07-02 11:58:28,ERROR,Database connection failed,1
+2026-07-02 12:00:07,INFO,API request received: GET /products,1
+2026-07-02 12:00:16,INFO,Health check passed,1
+2026-07-02 12:01:46,WARNING,Cache miss for key user_245,1
+2026-07-02 12:02:26,INFO,API request received: GET /products,1
+2026-07-02 12:02:29,INFO,API request received: GET /products,1
+2026-07-02 12:04:17,INFO,Health check passed,1
+2026-07-02 12:04:32,ERROR,Database connection failed,1
+2026-07-02 12:04:53,WARNING,Database connection retried,1
+2026-07-02 12:05:37,ERROR,Suspicious IP access blocked from 192.168.645.246,-1
+2026-07-02 12:11:42,INFO,Cache refreshed successfully,1
+2026-07-02 12:12:33,ERROR,Database connection failed,1
+2026-07-02 12:15:47,INFO,User login successful for user_894,1
+2026-07-02 12:18:28,INFO,API request received: POST /orders,1
+2026-07-02 12:19:12,WARNING,Database connection retried,1
+2026-07-02 12:19:42,WARNING,Cache miss for key user_378,1
+2026-07-02 12:20:17,INFO,User login successful for user_596,1
+2026-07-02 12:21:12,WARNING,Cache miss for key user_865,1
+2026-07-02 12:21:26,WARNING,Cache miss for key user_915,1
+2026-07-02 12:21:49,INFO,API request received: POST /orders,1
+2026-07-02 12:22:13,INFO,User login successful for user_996,1
+2026-07-02 12:22:40,INFO,Database connection established,1
+2026-07-02 12:23:00,INFO,User login successful for user_872,1
+2026-07-02 12:26:21,WARNING,Slow query detected: 409ms,1
+2026-07-02 12:28:26,INFO,API request received: GET /products,1
+2026-07-02 12:28:55,INFO,User login successful for user_406,1
+2026-07-02 12:30:39,INFO,API request received: GET /users,1
+2026-07-02 12:31:25,ERROR,Database connection failed,1
+2026-07-02 12:35:20,INFO,Database connection established,1
+2026-07-02 12:39:53,INFO,Database connection established,1
+2026-07-02 12:42:52,ERROR,Payment gateway timeout,1
+2026-07-02 12:43:40,INFO,Database connection established,1
+2026-07-02 12:44:47,INFO,API request received: GET /products,1
+2026-07-02 12:48:02,WARNING,Cache miss for key user_178,1
+2026-07-02 12:50:04,INFO,Cache refreshed successfully,1
+2026-07-02 12:53:00,INFO,API request received: GET /products,1
+2026-07-02 12:53:33,ERROR,Database connection failed,1
+2026-07-02 12:53:39,INFO,Cache refreshed successfully,1
+2026-07-02 12:55:43,ERROR,Payment gateway timeout,1
+2026-07-02 12:56:02,INFO,Cache refreshed successfully,1
+2026-07-02 12:57:03,WARNING,Cache miss for key user_414,1
+2026-07-02 12:57:11,INFO,Config file accessed outside business hours,-1
+2026-07-02 12:57:49,WARNING,Cache miss for key user_751,1
+2026-07-02 12:59:04,INFO,API request received: GET /products,1
+2026-07-02 13:04:40,ERROR,Database connection failed,1
+2026-07-02 13:05:32,INFO,User login successful for user_998,1
+2026-07-02 13:05:36,INFO,Health check passed,1
+2026-07-02 13:08:13,INFO,API request received: POST /orders,1
+2026-07-02 13:08:46,WARNING,Cache miss for key user_433,1
+2026-07-02 13:10:57,WARNING,Database connection retried,1
+2026-07-02 13:12:11,WARNING,Cache miss for key user_157,1
+2026-07-02 13:14:34,INFO,Database connection established,1
+2026-07-02 13:18:20,INFO,API request received: GET /users,1
+2026-07-02 13:20:58,ERROR,Payment gateway timeout,1
+2026-07-02 13:21:39,ERROR,Payment gateway timeout,1
+2026-07-02 13:27:00,WARNING,Cache miss for key user_362,1
+2026-07-02 13:27:31,INFO,API request received: GET /products,1
+2026-07-02 13:31:04,WARNING,Cache miss for key user_764,1
+2026-07-02 13:32:42,ERROR,Database connection failed,1
+2026-07-02 13:32:43,INFO,Health check passed,1
+2026-07-02 13:34:23,WARNING,Slow query detected: 1ms,1
+2026-07-02 13:35:00,WARNING,Database connection retried,1
+2026-07-02 13:35:55,INFO,API request received: GET /users,1
+2026-07-02 13:36:57,ERROR,Database connection failed,1
+2026-07-02 13:37:22,INFO,Cache refreshed successfully,1
+2026-07-02 13:39:35,ERROR,Database connection failed,1
+2026-07-02 13:39:40,WARNING,Cache miss for key user_562,1
+2026-07-02 13:42:50,ERROR,Payment gateway timeout,1
+2026-07-02 13:44:47,INFO,API request received: GET /users,1
+2026-07-02 13:49:27,INFO,Cache refreshed successfully,1
+2026-07-02 13:52:50,INFO,Health check passed,1
+2026-07-02 13:53:15,WARNING,Database connection retried,1
+2026-07-02 13:54:48,INFO,API request received: GET /products,1
+2026-07-02 13:55:04,INFO,Database connection established,1
+2026-07-02 13:58:53,WARNING,Slow query detected: 713ms,1
+2026-07-02 13:59:11,WARNING,Database connection retried,1
+2026-07-02 14:03:39,ERROR,Database connection failed,1
+2026-07-02 14:07:11,WARNING,Database connection retried,1
+2026-07-02 14:07:57,INFO,User login successful for user_31,1
+2026-07-02 14:11:25,INFO,Health check passed,1
+2026-07-02 14:13:12,INFO,Health check passed,1
+2026-07-02 14:13:52,WARNING,Cache miss for key user_780,1
+2026-07-02 14:13:57,WARNING,Cache miss for key user_276,1
+2026-07-02 14:16:24,INFO,API request received: GET /users,1
+2026-07-02 14:19:58,INFO,API request received: GET /products,1
+2026-07-02 14:21:15,INFO,User login successful for user_553,1
+2026-07-02 14:22:38,ERROR,Multiple failed login attempts for user_300,-1
+2026-07-02 14:22:39,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 14:23:06,INFO,API request received: GET /users,1
+2026-07-02 14:27:38,ERROR,Payment gateway timeout,1
+2026-07-02 14:29:06,INFO,API request received: POST /orders,1
+2026-07-02 14:30:06,WARNING,Slow query detected: 740ms,1
+2026-07-02 14:32:52,ERROR,Suspicious IP access blocked from 192.168.626.154,-1
+2026-07-02 14:33:00,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 14:35:27,WARNING,Slow query detected: 238ms,1
+2026-07-02 14:36:02,WARNING,Cache miss for key user_793,1
+2026-07-02 14:37:19,ERROR,Database connection failed,1
+2026-07-02 14:38:45,INFO,API request received: GET /users,1
+2026-07-02 14:42:10,WARNING,Database connection retried,1
+2026-07-02 14:51:29,WARNING,Database connection retried,1
+2026-07-02 14:53:26,INFO,API request received: POST /orders,1
+2026-07-02 14:56:26,INFO,Health check passed,1
+2026-07-02 14:59:51,INFO,Health check passed,1
+2026-07-02 15:01:14,INFO,User login successful for user_745,1
+2026-07-02 15:04:09,ERROR,Payment gateway timeout,1
+2026-07-02 15:05:01,INFO,User login successful for user_167,1
+2026-07-02 15:05:02,WARNING,Database connection retried,1
+2026-07-02 15:07:48,INFO,Cache refreshed successfully,1
+2026-07-02 15:12:06,INFO,API request received: GET /users,1
+2026-07-02 15:12:09,ERROR,Payment gateway timeout,1
+2026-07-02 15:12:30,ERROR,Payment gateway timeout,1
+2026-07-02 15:13:29,INFO,User login successful for user_734,1
+2026-07-02 15:16:49,ERROR,Payment gateway timeout,1
+2026-07-02 15:17:26,INFO,Database connection established,1
+2026-07-02 15:24:00,ERROR,Payment gateway timeout,1
+2026-07-02 15:25:10,INFO,API request received: GET /users,1
+2026-07-02 15:26:58,INFO,Health check passed,1
+2026-07-02 15:28:40,WARNING,Cache miss for key user_112,1
+2026-07-02 15:28:47,ERROR,Database connection failed,1
+2026-07-02 15:29:49,ERROR,Database connection failed,1
+2026-07-02 15:30:34,INFO,API request received: GET /products,1
+2026-07-02 15:30:37,INFO,API request received: GET /products,1
+2026-07-02 15:31:25,INFO,User login successful for user_152,1
+2026-07-02 15:33:43,WARNING,Cache miss for key user_894,1
+2026-07-02 15:35:12,INFO,Database connection established,1
+2026-07-02 15:37:40,ERROR,Database connection failed,1
+2026-07-02 15:38:04,INFO,Health check passed,1
+2026-07-02 15:39:03,INFO,User login successful for user_402,1
+2026-07-02 15:40:28,ERROR,Database connection failed,1
+2026-07-02 15:41:50,INFO,Cache refreshed successfully,1
+2026-07-02 15:42:12,INFO,Database connection established,1
+2026-07-02 15:43:10,INFO,API request received: GET /products,1
+2026-07-02 15:43:37,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 15:43:47,INFO,Cache refreshed successfully,1
+2026-07-02 15:43:53,INFO,API request received: POST /orders,1
+2026-07-02 15:46:22,INFO,API request received: POST /orders,1
+2026-07-02 15:47:02,WARNING,Database connection retried,1
+2026-07-02 15:49:24,INFO,User login successful for user_677,1
+2026-07-02 15:53:03,WARNING,Cache miss for key user_440,1
+2026-07-02 15:53:40,WARNING,Database connection retried,1
+2026-07-02 15:53:54,ERROR,Rate limit exceeded for user_58,-1
+2026-07-02 15:54:28,WARNING,Database connection retried,1
+2026-07-02 15:59:04,ERROR,Suspicious IP access blocked from 192.168.627.65,-1
+2026-07-02 16:00:09,ERROR,Database connection failed,1
+2026-07-02 16:05:57,WARNING,Database connection retried,1
+2026-07-02 16:06:55,INFO,API request received: GET /products,1
+2026-07-02 16:07:56,INFO,Health check passed,1
+2026-07-02 16:08:30,INFO,Database connection established,1
+2026-07-02 16:08:47,INFO,Database connection established,1
+2026-07-02 16:09:00,ERROR,Database connection failed,1
+2026-07-02 16:11:10,INFO,User login successful for user_828,1
+2026-07-02 16:15:47,INFO,API request received: GET /products,1
+2026-07-02 16:18:08,INFO,API request received: POST /orders,1
+2026-07-02 16:18:57,INFO,API request received: POST /orders,1
+2026-07-02 16:19:23,INFO,Health check passed,1
+2026-07-02 16:19:29,INFO,Database connection established,1
+2026-07-02 16:22:19,INFO,User login successful for user_229,1
+2026-07-02 16:23:59,WARNING,Database connection retried,1
+2026-07-02 16:24:04,INFO,Cache refreshed successfully,1
+2026-07-02 16:26:56,WARNING,Database connection retried,1
+2026-07-02 16:28:39,INFO,API request received: GET /products,1
+2026-07-02 16:31:30,INFO,API request received: GET /products,1
+2026-07-02 16:32:09,INFO,API request received: GET /products,1
+2026-07-02 16:32:25,ERROR,Database connection failed,1
+2026-07-02 16:34:19,INFO,API request received: POST /orders,1
+2026-07-02 16:35:10,INFO,Database connection established,1
+2026-07-02 16:39:17,ERROR,Payment gateway timeout,1
+2026-07-02 16:41:13,WARNING,Database connection retried,1
+2026-07-02 16:46:55,WARNING,Database connection retried,1
+2026-07-02 16:54:31,INFO,API request received: POST /orders,1
+2026-07-02 16:55:30,INFO,API request received: POST /orders,1
+2026-07-02 16:55:33,INFO,Cache refreshed successfully,1
+2026-07-02 16:56:09,INFO,API request received: GET /products,1
+2026-07-02 17:04:10,INFO,API request received: GET /products,1
+2026-07-02 17:05:54,INFO,API request received: POST /orders,1
+2026-07-02 17:06:52,INFO,Cache refreshed successfully,1
+2026-07-02 17:08:20,WARNING,Cache miss for key user_327,1
+2026-07-02 17:11:43,WARNING,Database connection retried,1
+2026-07-02 17:12:47,INFO,Health check passed,1
+2026-07-02 17:14:19,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 17:14:41,INFO,API request received: POST /orders,1
+2026-07-02 17:15:18,INFO,API request received: GET /products,1
+2026-07-02 17:16:52,INFO,Cache refreshed successfully,1
+2026-07-02 17:18:02,INFO,API request received: POST /orders,1
+2026-07-02 17:18:13,INFO,API request received: GET /users,1
+2026-07-02 17:18:40,INFO,API request received: POST /orders,1
+2026-07-02 17:20:24,INFO,Database connection established,1
+2026-07-02 17:20:42,WARNING,Slow query detected: 539ms,1
+2026-07-02 17:21:42,INFO,API request received: POST /orders,1
+2026-07-02 17:24:15,WARNING,Database connection retried,1
+2026-07-02 17:25:06,INFO,API request received: POST /orders,1
+2026-07-02 17:25:27,INFO,API request received: GET /users,1
+2026-07-02 17:25:50,INFO,Cache refreshed successfully,1
+2026-07-02 17:26:47,INFO,API request received: GET /users,1
+2026-07-02 17:27:25,INFO,User login successful for user_168,1
+2026-07-02 17:27:58,WARNING,Database connection retried,1
+2026-07-02 17:31:34,WARNING,Database connection retried,1
+2026-07-02 17:39:44,WARNING,Database connection retried,1
+2026-07-02 17:40:29,WARNING,Slow query detected: 684ms,1
+2026-07-02 17:46:46,INFO,Cache refreshed successfully,1
+2026-07-02 17:47:15,INFO,API request received: GET /users,1
+2026-07-02 17:48:16,WARNING,Database connection retried,1
+2026-07-02 17:48:29,ERROR,Payment gateway timeout,1
+2026-07-02 17:48:50,INFO,User login successful for user_155,1
+2026-07-02 17:50:01,INFO,Health check passed,1
+2026-07-02 17:50:41,INFO,Cache refreshed successfully,1
+2026-07-02 17:54:14,INFO,API request received: GET /users,1
+2026-07-02 17:54:39,INFO,Cache refreshed successfully,1
+2026-07-02 17:56:36,ERROR,Payment gateway timeout,1
+2026-07-02 17:57:05,INFO,Cache refreshed successfully,1
+2026-07-02 18:01:03,INFO,Cache refreshed successfully,1
+2026-07-02 18:02:08,INFO,API request received: GET /users,1
+2026-07-02 18:06:11,INFO,Database connection established,1
+2026-07-02 18:09:14,WARNING,Slow query detected: 654ms,1
+2026-07-02 18:09:15,INFO,API request received: POST /orders,1
+2026-07-02 18:09:27,INFO,Database connection established,1
+2026-07-02 18:12:05,INFO,API request received: GET /products,1
+2026-07-02 18:15:31,WARNING,Database connection retried,1
+2026-07-02 18:20:51,ERROR,Payment gateway timeout,1
+2026-07-02 18:25:40,INFO,Cache refreshed successfully,1
+2026-07-02 18:28:05,WARNING,Database connection retried,1
+2026-07-02 18:28:29,INFO,Database connection established,1
+2026-07-02 18:31:03,INFO,Health check passed,1
+2026-07-02 18:36:45,ERROR,Database connection failed,1
+2026-07-02 18:37:14,INFO,API request received: GET /users,1
+2026-07-02 18:37:42,INFO,API request received: POST /orders,1
+2026-07-02 18:42:09,INFO,Cache refreshed successfully,1
+2026-07-02 18:42:55,INFO,API request received: POST /orders,1
+2026-07-02 18:43:14,INFO,API request received: GET /users,1
+2026-07-02 18:43:42,WARNING,Slow query detected: 528ms,1
+2026-07-02 18:43:43,WARNING,Cache miss for key user_579,1
+2026-07-02 18:44:12,WARNING,Slow query detected: 322ms,1
+2026-07-02 18:45:18,ERROR,Database connection failed,1
+2026-07-02 18:45:26,WARNING,Database connection retried,1
+2026-07-02 18:46:20,INFO,User login successful for user_782,1
+2026-07-02 18:46:57,WARNING,Cache miss for key user_346,1
+2026-07-02 18:51:57,INFO,API request received: POST /orders,1
+2026-07-02 18:53:53,INFO,Health check passed,1
+2026-07-02 18:54:03,WARNING,Database connection retried,1
+2026-07-02 18:56:31,WARNING,Slow query detected: 474ms,1
+2026-07-02 18:57:21,WARNING,Database connection retried,1
+2026-07-02 18:58:30,ERROR,Payment gateway timeout,1
+2026-07-02 19:00:19,INFO,Health check passed,1
+2026-07-02 19:01:18,INFO,Health check passed,1
+2026-07-02 19:01:24,WARNING,Cache miss for key user_928,1
+2026-07-02 19:03:06,INFO,Health check passed,1
+2026-07-02 19:03:57,INFO,Database connection established,1
+2026-07-02 19:04:46,INFO,API request received: GET /users,1
+2026-07-02 19:04:47,ERROR,Payment gateway timeout,1
+2026-07-02 19:11:56,WARNING,Unusual outbound traffic detected: 861MB,-1
+2026-07-02 19:15:17,WARNING,Database connection retried,1
+2026-07-02 19:19:37,INFO,API request received: GET /users,1
+2026-07-02 19:21:16,INFO,Database connection established,1
+2026-07-02 19:22:56,INFO,Cache refreshed successfully,1
+2026-07-02 19:24:33,INFO,Database connection established,1
+2026-07-02 19:25:31,INFO,API request received: POST /orders,1
+2026-07-02 19:26:50,INFO,Cache refreshed successfully,1
+2026-07-02 19:28:05,ERROR,Payment gateway timeout,1
+2026-07-02 19:28:58,INFO,Database connection established,1
+2026-07-02 19:30:29,INFO,Health check passed,1
+2026-07-02 19:31:17,INFO,Cache refreshed successfully,1
+2026-07-02 19:37:39,INFO,API request received: POST /orders,1
+2026-07-02 19:37:52,INFO,Cache refreshed successfully,1
+2026-07-02 19:38:12,INFO,API request received: GET /users,1
+2026-07-02 19:38:54,INFO,API request received: GET /products,1
+2026-07-02 19:41:02,INFO,Database connection established,1
+2026-07-02 19:41:29,INFO,API request received: GET /users,1
+2026-07-02 19:41:34,INFO,API request received: POST /orders,1
+2026-07-02 19:42:13,INFO,Database connection established,1
+2026-07-02 19:43:21,INFO,Database connection established,1
+2026-07-02 19:44:05,INFO,API request received: GET /users,1
+2026-07-02 19:44:11,INFO,Cache refreshed successfully,1
+2026-07-02 19:48:32,INFO,Cache refreshed successfully,1
+2026-07-02 19:48:38,INFO,API request received: GET /users,1
+2026-07-02 19:51:43,WARNING,Unusual outbound traffic detected: 213MB,-1
+2026-07-02 19:52:20,INFO,API request received: GET /products,1
+2026-07-02 19:53:26,INFO,API request received: GET /products,1
+2026-07-02 19:56:20,WARNING,Cache miss for key user_143,1
+2026-07-02 20:00:31,ERROR,Database connection failed,1
+2026-07-02 20:06:24,INFO,API request received: GET /products,1
+2026-07-02 20:08:44,INFO,API request received: GET /products,1
+2026-07-02 20:14:43,WARNING,Database connection retried,1
+2026-07-02 20:15:19,ERROR,Multiple failed login attempts for user_766,-1
+2026-07-02 20:18:18,WARNING,Cache miss for key user_274,1
+2026-07-02 20:20:49,WARNING,Cache miss for key user_611,1
+2026-07-02 20:20:50,WARNING,Slow query detected: 178ms,1
+2026-07-02 20:23:20,WARNING,Cache miss for key user_440,1
+2026-07-02 20:24:03,INFO,Cache refreshed successfully,1
+2026-07-02 20:24:30,INFO,Database connection established,1
+2026-07-02 20:26:31,WARNING,Database connection retried,1
+2026-07-02 20:29:31,WARNING,Slow query detected: 70ms,1
+2026-07-02 20:30:17,ERROR,Payment gateway timeout,1
+2026-07-02 20:34:08,INFO,Health check passed,1
+2026-07-02 20:34:32,INFO,Cache refreshed successfully,1
+2026-07-02 20:34:58,INFO,API request received: GET /users,1
+2026-07-02 20:37:15,INFO,User login successful for user_52,1
+2026-07-02 20:42:30,INFO,API request received: POST /orders,1
+2026-07-02 20:43:25,INFO,Cache refreshed successfully,1
+2026-07-02 20:44:08,INFO,Database connection established,1
+2026-07-02 20:45:07,INFO,API request received: POST /orders,1
+2026-07-02 20:45:31,INFO,Health check passed,1
+2026-07-02 20:46:14,WARNING,Cache miss for key user_894,1
+2026-07-02 20:49:52,INFO,Cache refreshed successfully,1
+2026-07-02 20:53:22,INFO,API request received: GET /products,1
+2026-07-02 20:53:40,INFO,User login successful for user_105,1
+2026-07-02 20:54:13,ERROR,Payment gateway timeout,1
+2026-07-02 20:57:51,INFO,Cache refreshed successfully,1
+2026-07-02 21:29:07,INFO,API request received: POST /orders,1
+2026-07-02 21:37:12,WARNING,Database connection retried,1
+2026-07-02 21:39:28,INFO,API request received: GET /users,1
+2026-07-02 21:43:28,INFO,User login successful for user_89,1
+2026-07-02 21:56:45,INFO,Cache refreshed successfully,1
+2026-07-02 22:01:49,ERROR,Unauthorized access attempt detected,-1
+2026-07-02 22:06:53,WARNING,Slow query detected: 631ms,1
+2026-07-02 22:11:32,WARNING,Database connection retried,1
+2026-07-02 22:14:43,INFO,User login successful for user_276,1
+2026-07-02 22:16:09,INFO,API request received: GET /products,1
+2026-07-02 22:19:59,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 22:25:24,WARNING,Cache miss for key user_59,1
+2026-07-02 22:27:17,INFO,Database connection established,1
+2026-07-02 22:41:09,ERROR,Payment gateway timeout,1
+2026-07-02 22:43:47,ERROR,Suspicious IP access blocked from 192.168.566.124,-1
+2026-07-02 22:51:00,INFO,API request received: POST /orders,1
+2026-07-02 22:55:21,WARNING,Database connection retried,1
+2026-07-02 22:56:20,INFO,Health check passed,1
+2026-07-02 23:07:52,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 23:11:16,INFO,Database connection established,1
+2026-07-02 23:16:39,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 23:17:09,ERROR,Payment gateway timeout,1
+2026-07-02 23:25:19,ERROR,Database connection failed,1
+2026-07-02 23:25:43,INFO,User login successful for user_731,1
+2026-07-02 23:30:32,ERROR,Malformed request payload from unknown source,-1
+2026-07-02 23:32:07,INFO,Health check passed,1
+2026-07-02 23:33:12,ERROR,Brute force login pattern detected for user_770,-1
+2026-07-02 23:34:11,WARNING,Cache miss for key user_612,1
+2026-07-02 23:36:38,ERROR,Privilege escalation attempt blocked,-1
+2026-07-02 23:37:23,INFO,API request received: GET /products,1
+2026-07-02 23:41:37,INFO,Database connection established,1
+2026-07-02 23:44:34,ERROR,Multiple failed login attempts for user_488,-1
+2026-07-02 23:48:07,INFO,API request received: GET /products,1
+2026-07-02 23:50:17,INFO,User login successful for user_869,1
+2026-07-02 23:53:30,ERROR,Suspicious IP access blocked from 192.168.326.107,-1
+2026-07-03 00:00:47,INFO,Database connection established,1
+2026-07-03 00:05:40,INFO,Health check passed,1
+2026-07-03 00:06:38,ERROR,Multiple failed login attempts for user_828,-1
+2026-07-03 00:18:55,ERROR,Database connection failed,1
+2026-07-03 00:19:36,WARNING,Cache miss for key user_110,1
+2026-07-03 00:21:52,INFO,Database connection established,1
+2026-07-03 00:28:16,INFO,Cache refreshed successfully,1
+2026-07-03 00:34:44,ERROR,Rate limit exceeded for user_597,-1
+2026-07-03 00:35:55,WARNING,Database connection retried,1
+2026-07-03 00:36:52,ERROR,Suspicious IP access blocked from 192.168.884.184,-1
+2026-07-03 00:52:17,WARNING,Database connection retried,1
+2026-07-03 01:00:29,ERROR,Payment gateway timeout,1
+2026-07-03 01:05:26,ERROR,Privilege escalation attempt blocked,-1
+2026-07-03 01:22:59,WARNING,Slow query detected: 672ms,1
+2026-07-03 01:32:41,INFO,API request received: POST /orders,1
+2026-07-03 01:37:31,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 01:37:50,WARNING,Cache miss for key user_320,1
+2026-07-03 01:56:57,WARNING,Unusual outbound traffic detected: 430MB,-1
+2026-07-03 02:18:04,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 02:48:23,WARNING,Database connection retried,1
+2026-07-03 03:10:40,WARNING,Unusual outbound traffic detected: 729MB,-1
+2026-07-03 03:11:52,ERROR,Payment gateway timeout,1
+2026-07-03 03:16:13,INFO,Config file accessed outside business hours,-1
+2026-07-03 03:18:14,INFO,Cache refreshed successfully,1
+2026-07-03 03:21:08,INFO,API request received: GET /products,1
+2026-07-03 03:28:19,WARNING,Slow query detected: 272ms,1
+2026-07-03 03:38:01,WARNING,Database connection retried,1
+2026-07-03 03:39:32,INFO,Cache refreshed successfully,1
+2026-07-03 03:41:04,ERROR,Database connection failed,1
+2026-07-03 03:51:08,INFO,Cache refreshed successfully,1
+2026-07-03 03:53:54,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 03:55:06,INFO,Health check passed,1
+2026-07-03 04:10:07,WARNING,Unusual outbound traffic detected: 281MB,-1
+2026-07-03 04:24:41,WARNING,Slow query detected: 586ms,1
+2026-07-03 04:37:46,WARNING,Cache miss for key user_12,1
+2026-07-03 04:41:30,ERROR,Privilege escalation attempt blocked,-1
+2026-07-03 04:41:45,ERROR,Database connection failed,1
+2026-07-03 04:52:16,INFO,API request received: POST /orders,1
+2026-07-03 04:55:50,INFO,API request received: GET /products,1
+2026-07-03 05:14:29,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 05:37:37,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 05:40:00,ERROR,Multiple failed login attempts for user_282,-1
+2026-07-03 05:45:42,INFO,Health check passed,1
+2026-07-03 05:54:29,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 05:58:16,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 05:59:01,ERROR,Brute force login pattern detected for user_773,-1
+2026-07-03 06:02:39,WARNING,Unusual outbound traffic detected: 371MB,-1
+2026-07-03 06:06:00,INFO,API request received: GET /users,1
+2026-07-03 06:29:47,ERROR,Multiple failed login attempts for user_136,-1
+2026-07-03 06:36:23,WARNING,Cache miss for key user_283,1
+2026-07-03 07:09:49,INFO,API request received: GET /products,1
+2026-07-03 07:14:03,ERROR,Brute force login pattern detected for user_554,-1
+2026-07-03 07:27:36,ERROR,Brute force login pattern detected for user_788,-1
+2026-07-03 07:30:34,ERROR,Payment gateway timeout,1
+2026-07-03 07:34:11,ERROR,Suspicious IP access blocked from 192.168.450.208,-1
+2026-07-03 07:39:38,WARNING,Database connection retried,1
+2026-07-03 07:39:44,ERROR,Multiple failed login attempts for user_118,-1
+2026-07-03 07:45:19,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 07:45:28,WARNING,Database connection retried,1
+2026-07-03 07:46:33,WARNING,Cache miss for key user_537,1
+2026-07-03 07:55:34,INFO,Database connection established,1
+2026-07-03 07:58:22,WARNING,Cache miss for key user_962,1
+2026-07-03 07:58:34,INFO,Cache refreshed successfully,1
+2026-07-03 08:22:57,INFO,Cache refreshed successfully,1
+2026-07-03 08:28:07,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 08:31:29,WARNING,Slow query detected: 116ms,1
+2026-07-03 08:35:36,WARNING,Cache miss for key user_159,1
+2026-07-03 08:51:39,INFO,Health check passed,1
+2026-07-03 09:03:30,INFO,Health check passed,1
+2026-07-03 09:04:30,INFO,API request received: GET /users,1
+2026-07-03 09:08:33,INFO,Database connection established,1
+2026-07-03 09:10:36,INFO,User login successful for user_607,1
+2026-07-03 09:12:12,INFO,Database connection established,1
+2026-07-03 09:13:36,ERROR,Database connection failed,1
+2026-07-03 09:15:44,INFO,Config file accessed outside business hours,-1
+2026-07-03 09:16:28,WARNING,Slow query detected: 270ms,1
+2026-07-03 09:18:22,INFO,Cache refreshed successfully,1
+2026-07-03 09:22:56,ERROR,Payment gateway timeout,1
+2026-07-03 09:23:23,INFO,API request received: POST /orders,1
+2026-07-03 09:25:19,ERROR,Payment gateway timeout,1
+2026-07-03 09:31:59,ERROR,Database connection failed,1
+2026-07-03 09:33:37,ERROR,Database connection failed,1
+2026-07-03 09:36:50,INFO,API request received: GET /products,1
+2026-07-03 09:37:19,ERROR,Suspicious IP access blocked from 192.168.661.167,-1
+2026-07-03 09:41:57,WARNING,Cache miss for key user_36,1
+2026-07-03 09:42:07,WARNING,Slow query detected: 315ms,1
+2026-07-03 09:42:13,WARNING,Database connection retried,1
+2026-07-03 09:42:37,INFO,API request received: GET /products,1
+2026-07-03 09:43:13,INFO,Health check passed,1
+2026-07-03 09:43:19,INFO,Database connection established,1
+2026-07-03 09:48:03,ERROR,Database connection failed,1
+2026-07-03 09:49:19,INFO,API request received: POST /orders,1
+2026-07-03 09:51:31,WARNING,Slow query detected: 48ms,1
+2026-07-03 09:56:41,INFO,API request received: GET /products,1
+2026-07-03 09:57:22,INFO,User login successful for user_699,1
+2026-07-03 09:57:31,INFO,API request received: POST /orders,1
+2026-07-03 09:59:24,INFO,Health check passed,1
+2026-07-03 10:00:29,WARNING,Cache miss for key user_577,1
+2026-07-03 10:01:27,INFO,API request received: GET /products,1
+2026-07-03 10:04:13,WARNING,Cache miss for key user_12,1
+2026-07-03 10:04:21,INFO,API request received: POST /orders,1
+2026-07-03 10:08:02,INFO,API request received: GET /products,1
+2026-07-03 10:09:18,WARNING,Slow query detected: 200ms,1
+2026-07-03 10:09:27,ERROR,Database connection failed,1
+2026-07-03 10:10:15,WARNING,Database connection retried,1
+2026-07-03 10:11:32,ERROR,Payment gateway timeout,1
+2026-07-03 10:11:51,INFO,Cache refreshed successfully,1
+2026-07-03 10:12:50,INFO,API request received: POST /orders,1
+2026-07-03 10:16:42,WARNING,Slow query detected: 541ms,1
+2026-07-03 10:17:28,INFO,User login successful for user_145,1
+2026-07-03 10:17:49,INFO,API request received: GET /products,1
+2026-07-03 10:19:19,WARNING,Database connection retried,1
+2026-07-03 10:27:08,INFO,Database connection established,1
+2026-07-03 10:27:50,WARNING,Slow query detected: 581ms,1
+2026-07-03 10:28:10,WARNING,Cache miss for key user_335,1
+2026-07-03 10:29:03,INFO,Cache refreshed successfully,1
+2026-07-03 10:30:04,INFO,Cache refreshed successfully,1
+2026-07-03 10:30:28,ERROR,Database connection failed,1
+2026-07-03 10:32:12,ERROR,Database connection failed,1
+2026-07-03 10:32:40,INFO,API request received: GET /users,1
+2026-07-03 10:32:41,INFO,API request received: POST /orders,1
+2026-07-03 10:33:56,WARNING,Cache miss for key user_91,1
+2026-07-03 10:34:54,WARNING,Slow query detected: 694ms,1
+2026-07-03 10:35:43,INFO,Health check passed,1
+2026-07-03 10:36:06,WARNING,Database connection retried,1
+2026-07-03 10:36:08,WARNING,Database connection retried,1
+2026-07-03 10:38:11,WARNING,Cache miss for key user_757,1
+2026-07-03 10:41:35,INFO,API request received: GET /users,1
+2026-07-03 10:41:54,ERROR,Database connection failed,1
+2026-07-03 10:49:57,INFO,API request received: GET /products,1
+2026-07-03 10:52:33,ERROR,Database connection failed,1
+2026-07-03 10:52:45,ERROR,Database connection failed,1
+2026-07-03 10:57:02,WARNING,Cache miss for key user_155,1
+2026-07-03 10:59:23,INFO,Database connection established,1
+2026-07-03 11:03:17,INFO,Health check passed,1
+2026-07-03 11:10:37,INFO,Database connection established,1
+2026-07-03 11:10:46,INFO,Health check passed,1
+2026-07-03 11:11:52,WARNING,Database connection retried,1
+2026-07-03 11:12:31,INFO,API request received: POST /orders,1
+2026-07-03 11:13:41,INFO,API request received: POST /orders,1
+2026-07-03 11:15:03,WARNING,Database connection retried,1
+2026-07-03 11:16:13,WARNING,Database connection retried,1
+2026-07-03 11:17:53,INFO,API request received: GET /products,1
+2026-07-03 11:18:29,INFO,API request received: POST /orders,1
+2026-07-03 11:21:18,INFO,Cache refreshed successfully,1
+2026-07-03 11:21:26,ERROR,Payment gateway timeout,1
+2026-07-03 11:26:15,INFO,API request received: POST /orders,1
+2026-07-03 11:30:27,INFO,API request received: GET /products,1
+2026-07-03 11:30:28,INFO,Health check passed,1
+2026-07-03 11:33:04,WARNING,Database connection retried,1
+2026-07-03 11:36:36,INFO,Cache refreshed successfully,1
+2026-07-03 11:37:45,INFO,API request received: POST /orders,1
+2026-07-03 11:39:59,INFO,API request received: POST /orders,1
+2026-07-03 11:40:46,INFO,Health check passed,1
+2026-07-03 11:42:33,INFO,User login successful for user_424,1
+2026-07-03 11:45:49,WARNING,Slow query detected: 265ms,1
+2026-07-03 11:48:44,ERROR,Database connection failed,1
+2026-07-03 11:52:31,INFO,API request received: GET /products,1
+2026-07-03 11:53:45,ERROR,Payment gateway timeout,1
+2026-07-03 11:53:49,ERROR,Database connection failed,1
+2026-07-03 11:58:07,INFO,API request received: GET /products,1
+2026-07-03 12:01:59,ERROR,Suspicious IP access blocked from 192.168.27.199,-1
+2026-07-03 12:05:37,ERROR,Suspicious IP access blocked from 192.168.233.106,-1
+2026-07-03 12:06:08,INFO,API request received: POST /orders,1
+2026-07-03 12:07:01,ERROR,Payment gateway timeout,1
+2026-07-03 12:07:46,INFO,User login successful for user_324,1
+2026-07-03 12:09:03,ERROR,Database connection failed,1
+2026-07-03 12:11:39,ERROR,Database connection failed,1
+2026-07-03 12:13:54,INFO,Cache refreshed successfully,1
+2026-07-03 12:14:08,WARNING,Slow query detected: 157ms,1
+2026-07-03 12:14:21,INFO,Health check passed,1
+2026-07-03 12:14:31,INFO,Cache refreshed successfully,1
+2026-07-03 12:15:17,WARNING,Database connection retried,1
+2026-07-03 12:18:45,INFO,Database connection established,1
+2026-07-03 12:20:12,INFO,User login successful for user_294,1
+2026-07-03 12:20:31,WARNING,Slow query detected: 337ms,1
+2026-07-03 12:20:57,INFO,API request received: GET /products,1
+2026-07-03 12:22:45,INFO,Health check passed,1
+2026-07-03 12:26:19,WARNING,Cache miss for key user_512,1
+2026-07-03 12:29:23,WARNING,Cache miss for key user_996,1
+2026-07-03 12:30:01,WARNING,Cache miss for key user_906,1
+2026-07-03 12:35:45,INFO,API request received: GET /products,1
+2026-07-03 12:38:32,INFO,Health check passed,1
+2026-07-03 12:38:45,INFO,API request received: GET /users,1
+2026-07-03 12:39:16,ERROR,Database connection failed,1
+2026-07-03 12:40:08,INFO,API request received: GET /products,1
+2026-07-03 12:40:59,INFO,API request received: GET /products,1
+2026-07-03 12:43:38,INFO,Health check passed,1
+2026-07-03 12:47:26,INFO,User login successful for user_385,1
+2026-07-03 12:48:21,INFO,API request received: GET /users,1
+2026-07-03 12:53:59,INFO,API request received: GET /users,1
+2026-07-03 12:57:54,WARNING,Database connection retried,1
+2026-07-03 12:58:56,ERROR,Database connection failed,1
+2026-07-03 13:00:22,INFO,Database connection established,1
+2026-07-03 13:01:47,INFO,API request received: GET /users,1
+2026-07-03 13:02:06,WARNING,Cache miss for key user_445,1
+2026-07-03 13:05:41,INFO,Cache refreshed successfully,1
+2026-07-03 13:06:08,INFO,API request received: GET /users,1
+2026-07-03 13:09:45,INFO,Database connection established,1
+2026-07-03 13:11:07,INFO,Cache refreshed successfully,1
+2026-07-03 13:11:16,INFO,API request received: GET /products,1
+2026-07-03 13:11:35,INFO,Database connection established,1
+2026-07-03 13:12:23,INFO,API request received: GET /products,1
+2026-07-03 13:12:24,WARNING,Slow query detected: 110ms,1
+2026-07-03 13:12:40,WARNING,Database connection retried,1
+2026-07-03 13:13:15,ERROR,Payment gateway timeout,1
+2026-07-03 13:14:04,INFO,User login successful for user_140,1
+2026-07-03 13:14:38,INFO,User login successful for user_466,1
+2026-07-03 13:15:06,INFO,API request received: GET /products,1
+2026-07-03 13:16:35,WARNING,Cache miss for key user_49,1
+2026-07-03 13:18:52,INFO,Cache refreshed successfully,1
+2026-07-03 13:20:44,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 13:22:56,INFO,API request received: GET /users,1
+2026-07-03 13:23:06,INFO,API request received: GET /products,1
+2026-07-03 13:23:27,INFO,User login successful for user_509,1
+2026-07-03 13:27:48,INFO,Database connection established,1
+2026-07-03 13:30:15,ERROR,Database connection failed,1
+2026-07-03 13:33:43,ERROR,Multiple failed login attempts for user_823,-1
+2026-07-03 13:38:10,ERROR,Database connection failed,1
+2026-07-03 13:42:00,INFO,API request received: GET /users,1
+2026-07-03 13:45:29,ERROR,Database connection failed,1
+2026-07-03 13:46:19,WARNING,Cache miss for key user_594,1
+2026-07-03 13:46:27,WARNING,Database connection retried,1
+2026-07-03 13:47:13,ERROR,Payment gateway timeout,1
+2026-07-03 13:48:36,ERROR,Database connection failed,1
+2026-07-03 13:51:06,INFO,Database connection established,1
+2026-07-03 13:56:04,INFO,API request received: POST /orders,1
+2026-07-03 13:56:12,ERROR,Unauthorized access attempt detected,-1
+2026-07-03 13:58:21,INFO,Cache refreshed successfully,1
+2026-07-03 13:58:52,WARNING,Slow query detected: 991ms,1
+2026-07-03 14:06:36,WARNING,Database connection retried,1
+2026-07-03 14:07:18,INFO,Health check passed,1
+2026-07-03 14:08:11,INFO,Health check passed,1
+2026-07-03 14:13:28,WARNING,Slow query detected: 974ms,1
+2026-07-03 14:13:42,INFO,Database connection established,1
+2026-07-03 14:18:28,INFO,API request received: POST /orders,1
+2026-07-03 14:18:49,INFO,API request received: GET /products,1
+2026-07-03 14:23:16,WARNING,Cache miss for key user_302,1
+2026-07-03 14:23:43,INFO,Cache refreshed successfully,1
+2026-07-03 14:26:38,ERROR,Payment gateway timeout,1
+2026-07-03 14:31:37,ERROR,Database connection failed,1
+2026-07-03 14:32:04,INFO,Database connection established,1
+2026-07-03 14:32:56,WARNING,Slow query detected: 478ms,1
+2026-07-03 14:34:49,INFO,API request received: GET /products,1
+2026-07-03 14:34:52,INFO,API request received: GET /products,1
+2026-07-03 14:35:30,WARNING,Cache miss for key user_585,1
+2026-07-03 14:41:18,ERROR,Payment gateway timeout,1
+2026-07-03 14:42:18,INFO,Database connection established,1
+2026-07-03 14:43:38,INFO,API request received: GET /products,1
+2026-07-03 14:44:00,ERROR,Payment gateway timeout,1
+2026-07-03 14:44:06,INFO,API request received: GET /products,1
+2026-07-03 14:44:39,INFO,Health check passed,1
+2026-07-03 14:50:24,WARNING,Slow query detected: 855ms,1
+2026-07-03 14:51:07,WARNING,Slow query detected: 987ms,1
+2026-07-03 14:54:12,INFO,Health check passed,1
+2026-07-03 14:54:35,INFO,User login successful for user_183,1
+2026-07-03 14:57:18,ERROR,Privilege escalation attempt blocked,-1
+2026-07-03 15:01:10,INFO,Database connection established,1
+2026-07-03 15:04:33,ERROR,Payment gateway timeout,1
+2026-07-03 15:05:56,INFO,API request received: GET /users,1
+2026-07-03 15:07:22,ERROR,Database connection failed,1
+2026-07-03 15:08:25,ERROR,Database connection failed,1
+2026-07-03 15:09:19,INFO,Health check passed,1
+2026-07-03 15:13:41,INFO,API request received: GET /products,1
+2026-07-03 15:16:12,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 15:17:07,ERROR,Database connection failed,1
+2026-07-03 15:17:40,INFO,API request received: GET /products,1
+2026-07-03 15:17:48,INFO,Health check passed,1
+2026-07-03 15:18:39,INFO,API request received: GET /products,1
+2026-07-03 15:18:57,INFO,Database connection established,1
+2026-07-03 15:19:02,ERROR,Multiple failed login attempts for user_782,-1
+2026-07-03 15:20:55,INFO,API request received: GET /users,1
+2026-07-03 15:21:10,INFO,API request received: GET /users,1
+2026-07-03 15:22:22,INFO,Health check passed,1
+2026-07-03 15:25:29,INFO,Database connection established,1
+2026-07-03 15:26:38,ERROR,Payment gateway timeout,1
+2026-07-03 15:28:04,ERROR,Database connection failed,1
+2026-07-03 15:29:26,INFO,Health check passed,1
+2026-07-03 15:31:32,WARNING,Cache miss for key user_743,1
+2026-07-03 15:34:47,ERROR,Payment gateway timeout,1
+2026-07-03 15:36:10,INFO,Cache refreshed successfully,1
+2026-07-03 15:36:30,INFO,User login successful for user_776,1
+2026-07-03 15:38:03,INFO,API request received: GET /products,1
+2026-07-03 15:43:15,INFO,API request received: GET /products,1
+2026-07-03 15:43:48,INFO,Health check passed,1
+2026-07-03 15:44:08,WARNING,Slow query detected: 73ms,1
+2026-07-03 15:45:08,INFO,Config file accessed outside business hours,-1
+2026-07-03 15:47:28,INFO,Health check passed,1
+2026-07-03 15:48:37,INFO,User login successful for user_567,1
+2026-07-03 15:50:15,INFO,API request received: GET /products,1
+2026-07-03 15:52:04,INFO,Health check passed,1
+2026-07-03 15:54:22,WARNING,Slow query detected: 259ms,1
+2026-07-03 15:54:35,WARNING,Cache miss for key user_629,1
+2026-07-03 15:55:32,INFO,API request received: GET /products,1
+2026-07-03 15:57:10,INFO,Cache refreshed successfully,1
+2026-07-03 15:57:37,INFO,Health check passed,1
+2026-07-03 16:03:10,WARNING,Cache miss for key user_444,1
+2026-07-03 16:06:33,INFO,Cache refreshed successfully,1
+2026-07-03 16:08:14,ERROR,Unauthorized access attempt detected,-1
+2026-07-03 16:12:20,INFO,API request received: GET /products,1
+2026-07-03 16:13:59,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 16:14:35,INFO,Health check passed,1
+2026-07-03 16:15:21,INFO,API request received: GET /products,1
+2026-07-03 16:16:19,WARNING,Cache miss for key user_353,1
+2026-07-03 16:18:16,WARNING,Slow query detected: 52ms,1
+2026-07-03 16:18:40,INFO,API request received: POST /orders,1
+2026-07-03 16:22:58,WARNING,Cache miss for key user_515,1
+2026-07-03 16:23:29,ERROR,Payment gateway timeout,1
+2026-07-03 16:24:08,INFO,Health check passed,1
+2026-07-03 16:27:07,WARNING,Slow query detected: 42ms,1
+2026-07-03 16:28:05,WARNING,Cache miss for key user_41,1
+2026-07-03 16:29:01,INFO,Config file accessed outside business hours,-1
+2026-07-03 16:29:43,WARNING,Database connection retried,1
+2026-07-03 16:31:14,INFO,Cache refreshed successfully,1
+2026-07-03 16:33:22,WARNING,Cache miss for key user_239,1
+2026-07-03 16:34:10,WARNING,Database connection retried,1
+2026-07-03 16:34:31,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 16:37:10,WARNING,Cache miss for key user_53,1
+2026-07-03 16:38:21,INFO,API request received: GET /products,1
+2026-07-03 16:42:53,WARNING,Slow query detected: 166ms,1
+2026-07-03 16:43:13,WARNING,Database connection retried,1
+2026-07-03 16:44:19,ERROR,Payment gateway timeout,1
+2026-07-03 16:48:49,INFO,Database connection established,1
+2026-07-03 16:51:10,INFO,API request received: POST /orders,1
+2026-07-03 16:51:55,INFO,API request received: GET /products,1
+2026-07-03 16:55:46,INFO,API request received: GET /products,1
+2026-07-03 16:56:02,INFO,API request received: GET /products,1
+2026-07-03 16:56:15,INFO,Cache refreshed successfully,1
+2026-07-03 16:56:38,INFO,API request received: GET /products,1
+2026-07-03 16:59:09,WARNING,Slow query detected: 886ms,1
+2026-07-03 17:02:22,WARNING,Slow query detected: 105ms,1
+2026-07-03 17:02:37,INFO,API request received: POST /orders,1
+2026-07-03 17:03:37,WARNING,Database connection retried,1
+2026-07-03 17:05:08,INFO,API request received: POST /orders,1
+2026-07-03 17:07:24,WARNING,Cache miss for key user_195,1
+2026-07-03 17:11:25,ERROR,Payment gateway timeout,1
+2026-07-03 17:13:06,WARNING,Database connection retried,1
+2026-07-03 17:13:44,INFO,API request received: GET /users,1
+2026-07-03 17:17:25,INFO,User login successful for user_769,1
+2026-07-03 17:20:12,INFO,Health check passed,1
+2026-07-03 17:24:11,INFO,Cache refreshed successfully,1
+2026-07-03 17:24:26,WARNING,Cache miss for key user_142,1
+2026-07-03 17:27:27,ERROR,Database connection failed,1
+2026-07-03 17:28:31,INFO,API request received: GET /products,1
+2026-07-03 17:28:48,WARNING,Database connection retried,1
+2026-07-03 17:29:00,INFO,Cache refreshed successfully,1
+2026-07-03 17:31:49,ERROR,Payment gateway timeout,1
+2026-07-03 17:32:05,INFO,Health check passed,1
+2026-07-03 17:34:01,INFO,API request received: GET /products,1
+2026-07-03 17:34:42,INFO,Health check passed,1
+2026-07-03 17:36:23,INFO,API request received: GET /products,1
+2026-07-03 17:37:41,ERROR,Privilege escalation attempt blocked,-1
+2026-07-03 17:42:04,INFO,API request received: GET /products,1
+2026-07-03 17:45:43,WARNING,Slow query detected: 283ms,1
+2026-07-03 17:46:07,INFO,API request received: POST /orders,1
+2026-07-03 17:49:09,INFO,API request received: POST /orders,1
+2026-07-03 17:49:30,WARNING,Slow query detected: 447ms,1
+2026-07-03 17:50:10,INFO,API request received: GET /users,1
+2026-07-03 17:52:48,INFO,API request received: POST /orders,1
+2026-07-03 17:55:20,ERROR,Payment gateway timeout,1
+2026-07-03 17:58:30,WARNING,Database connection retried,1
+2026-07-03 18:00:07,WARNING,Unusual outbound traffic detected: 583MB,-1
+2026-07-03 18:01:18,WARNING,Slow query detected: 85ms,1
+2026-07-03 18:02:42,ERROR,Unauthorized access attempt detected,-1
+2026-07-03 18:03:49,INFO,API request received: POST /orders,1
+2026-07-03 18:06:38,INFO,Health check passed,1
+2026-07-03 18:06:57,INFO,API request received: GET /products,1
+2026-07-03 18:07:00,ERROR,Payment gateway timeout,1
+2026-07-03 18:07:03,WARNING,Database connection retried,1
+2026-07-03 18:08:36,WARNING,Slow query detected: 808ms,1
+2026-07-03 18:08:54,ERROR,Payment gateway timeout,1
+2026-07-03 18:10:34,INFO,Health check passed,1
+2026-07-03 18:11:24,ERROR,Database connection failed,1
+2026-07-03 18:14:38,INFO,User login successful for user_237,1
+2026-07-03 18:25:37,INFO,API request received: GET /users,1
+2026-07-03 18:26:39,ERROR,Database connection failed,1
+2026-07-03 18:27:15,WARNING,Database connection retried,1
+2026-07-03 18:32:23,INFO,API request received: POST /orders,1
+2026-07-03 18:33:18,WARNING,Slow query detected: 518ms,1
+2026-07-03 18:33:30,WARNING,Database connection retried,1
+2026-07-03 18:33:38,INFO,Cache refreshed successfully,1
+2026-07-03 18:35:22,INFO,API request received: GET /users,1
+2026-07-03 18:36:25,INFO,API request received: GET /users,1
+2026-07-03 18:38:30,ERROR,Payment gateway timeout,1
+2026-07-03 18:39:06,INFO,API request received: GET /users,1
+2026-07-03 18:39:22,INFO,API request received: POST /orders,1
+2026-07-03 18:42:58,INFO,Config file accessed outside business hours,-1
+2026-07-03 18:44:56,INFO,Database connection established,1
+2026-07-03 18:52:11,INFO,Health check passed,1
+2026-07-03 18:56:47,INFO,API request received: POST /orders,1
+2026-07-03 19:00:04,WARNING,Slow query detected: 72ms,1
+2026-07-03 19:07:17,INFO,API request received: POST /orders,1
+2026-07-03 19:07:34,INFO,API request received: GET /products,1
+2026-07-03 19:07:42,INFO,API request received: POST /orders,1
+2026-07-03 19:10:01,INFO,API request received: GET /products,1
+2026-07-03 19:10:03,INFO,Health check passed,1
+2026-07-03 19:13:00,ERROR,Database connection failed,1
+2026-07-03 19:16:56,INFO,Health check passed,1
+2026-07-03 19:19:58,INFO,Health check passed,1
+2026-07-03 19:21:59,WARNING,Slow query detected: 611ms,1
+2026-07-03 19:23:04,WARNING,Database connection retried,1
+2026-07-03 19:23:34,ERROR,Database connection failed,1
+2026-07-03 19:24:54,ERROR,Payment gateway timeout,1
+2026-07-03 19:25:22,WARNING,Slow query detected: 683ms,1
+2026-07-03 19:25:38,ERROR,SQL injection pattern detected in request,-1
+2026-07-03 19:29:34,INFO,API request received: POST /orders,1
+2026-07-03 19:31:43,INFO,API request received: GET /users,1
+2026-07-03 19:34:33,WARNING,Slow query detected: 911ms,1
+2026-07-03 19:41:23,WARNING,Slow query detected: 922ms,1
+2026-07-03 19:44:53,ERROR,Payment gateway timeout,1
+2026-07-03 19:50:01,WARNING,Slow query detected: 530ms,1
+2026-07-03 19:51:10,ERROR,Payment gateway timeout,1
+2026-07-03 19:52:04,WARNING,Slow query detected: 172ms,1
+2026-07-03 19:57:10,INFO,Health check passed,1
+2026-07-03 20:00:03,INFO,Health check passed,1
+2026-07-03 20:00:44,WARNING,Cache miss for key user_401,1
+2026-07-03 20:01:41,WARNING,Slow query detected: 303ms,1
+2026-07-03 20:01:54,ERROR,Database connection failed,1
+2026-07-03 20:02:27,INFO,API request received: GET /products,1
+2026-07-03 20:02:47,WARNING,Database connection retried,1
+2026-07-03 20:03:19,INFO,Health check passed,1
+2026-07-03 20:04:02,ERROR,Database connection failed,1
+2026-07-03 20:04:05,INFO,Database connection established,1
+2026-07-03 20:04:35,WARNING,Database connection retried,1
+2026-07-03 20:05:37,INFO,API request received: GET /users,1
+2026-07-03 20:07:17,ERROR,Payment gateway timeout,1
+2026-07-03 20:08:26,INFO,API request received: GET /users,1
+2026-07-03 20:09:34,INFO,User login successful for user_73,1
+2026-07-03 20:13:44,ERROR,Payment gateway timeout,1
+2026-07-03 20:16:10,INFO,Cache refreshed successfully,1
+2026-07-03 20:20:15,INFO,Database connection established,1
+2026-07-03 20:21:28,ERROR,Database connection failed,1
+2026-07-03 20:22:12,INFO,API request received: GET /users,1
+2026-07-03 20:28:17,INFO,User login successful for user_679,1
+2026-07-03 20:34:31,INFO,API request received: POST /orders,1
+2026-07-03 20:34:50,INFO,API request received: GET /users,1
+2026-07-03 20:34:51,INFO,Database connection established,1
+2026-07-03 20:35:21,INFO,Cache refreshed successfully,1
+2026-07-03 20:36:20,WARNING,Cache miss for key user_613,1
+2026-07-03 20:40:00,ERROR,Database connection failed,1
+2026-07-03 20:42:27,INFO,API request received: GET /users,1
+2026-07-03 20:44:23,INFO,API request received: GET /users,1
+2026-07-03 20:44:34,INFO,Health check passed,1
+2026-07-03 20:51:56,INFO,API request received: GET /users,1
+2026-07-03 20:53:12,INFO,API request received: GET /products,1
+2026-07-03 20:54:05,INFO,API request received: GET /users,1
+2026-07-03 20:56:35,INFO,Database connection established,1
+2026-07-03 20:57:46,INFO,Cache refreshed successfully,1
+2026-07-03 20:58:42,INFO,Cache refreshed successfully,1
+2026-07-03 21:00:39,WARNING,Database connection retried,1
+2026-07-03 21:13:48,ERROR,Suspicious IP access blocked from 192.168.350.186,-1
+2026-07-03 21:40:27,INFO,API request received: POST /orders,1
+2026-07-03 21:41:06,INFO,API request received: POST /orders,1
+2026-07-03 21:51:07,WARNING,Cache miss for key user_802,1
+2026-07-03 21:58:55,WARNING,Database connection retried,1
+2026-07-03 22:05:06,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 22:07:34,INFO,User login successful for user_879,1
+2026-07-03 22:30:04,INFO,Cache refreshed successfully,1
+2026-07-03 22:34:57,WARNING,Slow query detected: 982ms,1
+2026-07-03 22:56:05,ERROR,Malformed request payload from unknown source,-1
+2026-07-03 23:05:27,INFO,API request received: GET /users,1
+2026-07-03 23:14:03,WARNING,Unusual outbound traffic detected: 999MB,-1
+2026-07-03 23:15:10,INFO,Cache refreshed successfully,1
+2026-07-03 23:41:12,ERROR,Payment gateway timeout,1
+2026-07-03 23:42:29,INFO,API request received: POST /orders,1
+2026-07-03 23:45:59,ERROR,Payment gateway timeout,1
+2026-07-03 23:47:05,INFO,User login successful for user_171,1
+2026-07-03 23:55:32,WARNING,Cache miss for key user_686,1
+2026-07-04 00:02:21,INFO,API request received: GET /products,1
+2026-07-04 00:14:48,WARNING,Slow query detected: 238ms,1
+2026-07-04 00:38:09,ERROR,Database connection failed,1
+2026-07-04 00:39:04,INFO,User login successful for user_647,1
+2026-07-04 00:41:08,WARNING,Slow query detected: 160ms,1
+2026-07-04 00:50:44,WARNING,Cache miss for key user_602,1
+2026-07-04 00:53:33,INFO,Database connection established,1
+2026-07-04 00:54:46,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 01:07:09,INFO,API request received: POST /orders,1
+2026-07-04 01:13:46,WARNING,Slow query detected: 760ms,1
+2026-07-04 01:16:49,INFO,Database connection established,1
+2026-07-04 01:29:26,ERROR,Privilege escalation attempt blocked,-1
+2026-07-04 02:18:58,WARNING,Unusual outbound traffic detected: 621MB,-1
+2026-07-04 02:21:57,WARNING,Slow query detected: 368ms,1
+2026-07-04 02:22:18,INFO,User login successful for user_664,1
+2026-07-04 02:24:00,INFO,Health check passed,1
+2026-07-04 02:25:57,INFO,Cache refreshed successfully,1
+2026-07-04 02:29:07,ERROR,Payment gateway timeout,1
+2026-07-04 02:40:28,ERROR,Database connection failed,1
+2026-07-04 02:41:18,INFO,API request received: GET /products,1
+2026-07-04 02:41:59,WARNING,Cache miss for key user_940,1
+2026-07-04 02:43:18,WARNING,Cache miss for key user_677,1
+2026-07-04 03:17:55,WARNING,Slow query detected: 82ms,1
+2026-07-04 03:25:04,WARNING,Database connection retried,1
+2026-07-04 03:28:51,INFO,Database connection established,1
+2026-07-04 03:29:35,INFO,API request received: POST /orders,1
+2026-07-04 03:37:30,WARNING,Slow query detected: 286ms,1
+2026-07-04 03:39:25,INFO,API request received: POST /orders,1
+2026-07-04 03:51:38,INFO,API request received: POST /orders,1
+2026-07-04 03:53:36,WARNING,Unusual outbound traffic detected: 933MB,-1
+2026-07-04 04:03:20,WARNING,Slow query detected: 567ms,1
+2026-07-04 04:10:36,INFO,User login successful for user_581,1
+2026-07-04 04:19:01,ERROR,Multiple failed login attempts for user_647,-1
+2026-07-04 04:19:12,INFO,API request received: GET /products,1
+2026-07-04 04:20:03,ERROR,Database connection failed,1
+2026-07-04 04:32:45,INFO,Database connection established,1
+2026-07-04 04:47:44,ERROR,Database connection failed,1
+2026-07-04 05:08:29,INFO,Config file accessed outside business hours,-1
+2026-07-04 05:08:42,ERROR,Database connection failed,1
+2026-07-04 05:16:43,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 05:23:11,WARNING,Slow query detected: 435ms,1
+2026-07-04 05:35:20,INFO,Cache refreshed successfully,1
+2026-07-04 05:44:06,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 05:45:27,INFO,API request received: GET /users,1
+2026-07-04 05:49:23,ERROR,Database connection failed,1
+2026-07-04 05:50:58,WARNING,Slow query detected: 423ms,1
+2026-07-04 05:52:03,INFO,User login successful for user_865,1
+2026-07-04 06:02:00,INFO,Database connection established,1
+2026-07-04 06:05:04,INFO,Database connection established,1
+2026-07-04 06:05:14,ERROR,Privilege escalation attempt blocked,-1
+2026-07-04 06:20:48,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 06:31:56,INFO,Health check passed,1
+2026-07-04 06:45:30,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 06:52:22,INFO,API request received: POST /orders,1
+2026-07-04 07:00:42,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 07:07:01,ERROR,Database connection failed,1
+2026-07-04 07:08:05,INFO,Cache refreshed successfully,1
+2026-07-04 07:11:32,ERROR,Brute force login pattern detected for user_287,-1
+2026-07-04 07:22:37,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 07:31:56,INFO,Database connection established,1
+2026-07-04 07:34:30,INFO,Cache refreshed successfully,1
+2026-07-04 07:38:42,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 07:41:59,INFO,API request received: POST /orders,1
+2026-07-04 07:44:08,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 07:44:20,WARNING,Slow query detected: 909ms,1
+2026-07-04 08:13:42,INFO,Database connection established,1
+2026-07-04 08:17:09,WARNING,Slow query detected: 111ms,1
+2026-07-04 08:23:05,INFO,Health check passed,1
+2026-07-04 08:26:26,WARNING,Database connection retried,1
+2026-07-04 08:28:25,ERROR,Suspicious IP access blocked from 192.168.949.32,-1
+2026-07-04 08:30:16,INFO,API request received: GET /products,1
+2026-07-04 08:31:08,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 08:33:39,INFO,API request received: POST /orders,1
+2026-07-04 08:34:00,ERROR,Payment gateway timeout,1
+2026-07-04 08:41:31,INFO,Health check passed,1
+2026-07-04 08:45:06,INFO,Config file accessed outside business hours,-1
+2026-07-04 08:48:46,ERROR,Payment gateway timeout,1
+2026-07-04 08:51:00,WARNING,Cache miss for key user_904,1
+2026-07-04 08:57:21,WARNING,Slow query detected: 803ms,1
+2026-07-04 09:00:34,WARNING,Database connection retried,1
+2026-07-04 09:06:02,INFO,Config file accessed outside business hours,-1
+2026-07-04 09:09:16,INFO,Database connection established,1
+2026-07-04 09:09:50,INFO,Cache refreshed successfully,1
+2026-07-04 09:10:28,INFO,Health check passed,1
+2026-07-04 09:13:10,ERROR,Database connection failed,1
+2026-07-04 09:15:13,INFO,API request received: GET /users,1
+2026-07-04 09:17:17,ERROR,Brute force login pattern detected for user_394,-1
+2026-07-04 09:17:31,ERROR,Multiple failed login attempts for user_348,-1
+2026-07-04 09:18:01,ERROR,Database connection failed,1
+2026-07-04 09:18:16,INFO,User login successful for user_633,1
+2026-07-04 09:18:17,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 09:18:38,INFO,API request received: GET /products,1
+2026-07-04 09:19:03,WARNING,Cache miss for key user_549,1
+2026-07-04 09:20:38,INFO,User login successful for user_31,1
+2026-07-04 09:22:41,ERROR,Database connection failed,1
+2026-07-04 09:27:56,INFO,API request received: POST /orders,1
+2026-07-04 09:33:01,INFO,Health check passed,1
+2026-07-04 09:36:43,INFO,Database connection established,1
+2026-07-04 09:37:51,ERROR,Database connection failed,1
+2026-07-04 09:38:47,INFO,Health check passed,1
+2026-07-04 09:39:54,INFO,Cache refreshed successfully,1
+2026-07-04 09:42:13,WARNING,Slow query detected: 839ms,1
+2026-07-04 09:44:24,INFO,Cache refreshed successfully,1
+2026-07-04 09:44:33,INFO,Health check passed,1
+2026-07-04 09:48:51,INFO,API request received: POST /orders,1
+2026-07-04 09:55:49,ERROR,Payment gateway timeout,1
+2026-07-04 09:56:31,INFO,API request received: GET /users,1
+2026-07-04 09:56:46,INFO,User login successful for user_49,1
+2026-07-04 09:57:51,WARNING,Slow query detected: 923ms,1
+2026-07-04 10:02:04,INFO,API request received: GET /users,1
+2026-07-04 10:03:17,ERROR,Database connection failed,1
+2026-07-04 10:04:16,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 10:04:56,ERROR,Payment gateway timeout,1
+2026-07-04 10:05:27,INFO,API request received: GET /users,1
+2026-07-04 10:06:20,INFO,Cache refreshed successfully,1
+2026-07-04 10:08:08,INFO,API request received: GET /products,1
+2026-07-04 10:09:41,INFO,Cache refreshed successfully,1
+2026-07-04 10:14:46,ERROR,Payment gateway timeout,1
+2026-07-04 10:15:49,ERROR,Database connection failed,1
+2026-07-04 10:16:45,WARNING,Cache miss for key user_643,1
+2026-07-04 10:20:02,INFO,API request received: POST /orders,1
+2026-07-04 10:21:58,ERROR,Database connection failed,1
+2026-07-04 10:22:54,WARNING,Database connection retried,1
+2026-07-04 10:24:57,INFO,User login successful for user_134,1
+2026-07-04 10:25:31,INFO,API request received: GET /users,1
+2026-07-04 10:25:42,INFO,API request received: GET /users,1
+2026-07-04 10:34:14,INFO,API request received: GET /products,1
+2026-07-04 10:35:16,WARNING,Slow query detected: 719ms,1
+2026-07-04 10:35:48,INFO,API request received: GET /products,1
+2026-07-04 10:37:30,ERROR,Payment gateway timeout,1
+2026-07-04 10:40:52,INFO,Database connection established,1
+2026-07-04 10:43:03,ERROR,Database connection failed,1
+2026-07-04 10:43:59,INFO,Database connection established,1
+2026-07-04 10:45:44,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 10:46:30,INFO,API request received: GET /products,1
+2026-07-04 10:50:30,ERROR,Database connection failed,1
+2026-07-04 10:53:20,INFO,API request received: POST /orders,1
+2026-07-04 10:54:52,WARNING,Slow query detected: 94ms,1
+2026-07-04 10:57:16,INFO,Database connection established,1
+2026-07-04 10:57:53,WARNING,Slow query detected: 962ms,1
+2026-07-04 11:00:25,INFO,User login successful for user_644,1
+2026-07-04 11:02:09,INFO,Cache refreshed successfully,1
+2026-07-04 11:02:53,ERROR,Brute force login pattern detected for user_395,-1
+2026-07-04 11:03:14,INFO,API request received: POST /orders,1
+2026-07-04 11:04:45,WARNING,Slow query detected: 38ms,1
+2026-07-04 11:05:08,ERROR,Database connection failed,1
+2026-07-04 11:06:13,INFO,API request received: POST /orders,1
+2026-07-04 11:06:58,INFO,API request received: GET /users,1
+2026-07-04 11:09:36,WARNING,Cache miss for key user_597,1
+2026-07-04 11:09:50,WARNING,Cache miss for key user_432,1
+2026-07-04 11:11:59,INFO,API request received: GET /products,1
+2026-07-04 11:12:11,INFO,Health check passed,1
+2026-07-04 11:15:17,ERROR,Database connection failed,1
+2026-07-04 11:16:00,ERROR,Database connection failed,1
+2026-07-04 11:16:50,ERROR,Payment gateway timeout,1
+2026-07-04 11:17:46,ERROR,Rate limit exceeded for user_992,-1
+2026-07-04 11:23:49,INFO,API request received: GET /users,1
+2026-07-04 11:29:11,INFO,API request received: POST /orders,1
+2026-07-04 11:30:47,INFO,API request received: POST /orders,1
+2026-07-04 11:32:03,INFO,Health check passed,1
+2026-07-04 11:34:22,INFO,Cache refreshed successfully,1
+2026-07-04 11:35:54,ERROR,Database connection failed,1
+2026-07-04 11:36:38,INFO,Health check passed,1
+2026-07-04 11:39:18,INFO,Cache refreshed successfully,1
+2026-07-04 11:39:36,INFO,Database connection established,1
+2026-07-04 11:39:44,INFO,API request received: GET /products,1
+2026-07-04 11:40:42,INFO,Health check passed,1
+2026-07-04 11:45:30,INFO,User login successful for user_159,1
+2026-07-04 11:45:32,WARNING,Database connection retried,1
+2026-07-04 11:45:35,ERROR,Payment gateway timeout,1
+2026-07-04 11:46:06,INFO,Health check passed,1
+2026-07-04 11:46:59,WARNING,Cache miss for key user_591,1
+2026-07-04 11:50:34,INFO,Cache refreshed successfully,1
+2026-07-04 11:52:00,INFO,Cache refreshed successfully,1
+2026-07-04 11:54:01,INFO,API request received: POST /orders,1
+2026-07-04 11:58:23,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 12:01:14,INFO,Health check passed,1
+2026-07-04 12:03:47,INFO,API request received: POST /orders,1
+2026-07-04 12:04:21,INFO,API request received: GET /products,1
+2026-07-04 12:04:42,INFO,Database connection established,1
+2026-07-04 12:05:29,WARNING,Slow query detected: 821ms,1
+2026-07-04 12:09:40,INFO,Database connection established,1
+2026-07-04 12:09:55,WARNING,Cache miss for key user_265,1
+2026-07-04 12:15:20,INFO,Health check passed,1
+2026-07-04 12:15:29,INFO,Cache refreshed successfully,1
+2026-07-04 12:16:05,INFO,Health check passed,1
+2026-07-04 12:17:35,INFO,API request received: POST /orders,1
+2026-07-04 12:18:42,WARNING,Slow query detected: 503ms,1
+2026-07-04 12:18:45,INFO,Database connection established,1
+2026-07-04 12:19:51,WARNING,Slow query detected: 926ms,1
+2026-07-04 12:19:54,ERROR,Payment gateway timeout,1
+2026-07-04 12:21:14,INFO,Health check passed,1
+2026-07-04 12:21:41,INFO,API request received: GET /users,1
+2026-07-04 12:23:58,INFO,User login successful for user_205,1
+2026-07-04 12:25:06,WARNING,Slow query detected: 815ms,1
+2026-07-04 12:25:11,WARNING,Cache miss for key user_283,1
+2026-07-04 12:26:58,ERROR,Payment gateway timeout,1
+2026-07-04 12:28:00,INFO,User login successful for user_761,1
+2026-07-04 12:30:02,INFO,Cache refreshed successfully,1
+2026-07-04 12:32:14,WARNING,Cache miss for key user_931,1
+2026-07-04 12:33:23,WARNING,Cache miss for key user_775,1
+2026-07-04 12:35:03,INFO,API request received: GET /products,1
+2026-07-04 12:45:02,ERROR,Database connection failed,1
+2026-07-04 12:46:46,INFO,Health check passed,1
+2026-07-04 12:47:18,WARNING,Slow query detected: 642ms,1
+2026-07-04 12:48:18,INFO,Cache refreshed successfully,1
+2026-07-04 12:52:28,INFO,Cache refreshed successfully,1
+2026-07-04 12:53:40,INFO,Database connection established,1
+2026-07-04 12:56:13,ERROR,Database connection failed,1
+2026-07-04 12:56:34,INFO,API request received: POST /orders,1
+2026-07-04 12:58:54,INFO,API request received: GET /users,1
+2026-07-04 12:59:16,ERROR,Database connection failed,1
+2026-07-04 13:00:29,INFO,API request received: GET /products,1
+2026-07-04 13:02:51,ERROR,Payment gateway timeout,1
+2026-07-04 13:04:06,WARNING,Database connection retried,1
+2026-07-04 13:07:17,INFO,Cache refreshed successfully,1
+2026-07-04 13:10:04,INFO,Database connection established,1
+2026-07-04 13:10:51,ERROR,Payment gateway timeout,1
+2026-07-04 13:11:26,WARNING,Database connection retried,1
+2026-07-04 13:13:03,WARNING,Cache miss for key user_754,1
+2026-07-04 13:20:48,INFO,Cache refreshed successfully,1
+2026-07-04 13:21:52,INFO,User login successful for user_731,1
+2026-07-04 13:23:27,INFO,API request received: POST /orders,1
+2026-07-04 13:24:20,INFO,User login successful for user_466,1
+2026-07-04 13:25:09,WARNING,Cache miss for key user_624,1
+2026-07-04 13:25:26,WARNING,Cache miss for key user_940,1
+2026-07-04 13:28:04,ERROR,Payment gateway timeout,1
+2026-07-04 13:29:12,ERROR,Rate limit exceeded for user_271,-1
+2026-07-04 13:30:52,INFO,API request received: GET /products,1
+2026-07-04 13:32:48,ERROR,Rate limit exceeded for user_247,-1
+2026-07-04 13:36:32,WARNING,Slow query detected: 175ms,1
+2026-07-04 13:39:01,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 13:40:43,WARNING,Slow query detected: 998ms,1
+2026-07-04 13:41:10,INFO,Database connection established,1
+2026-07-04 13:43:07,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 13:43:41,ERROR,Payment gateway timeout,1
+2026-07-04 13:46:01,INFO,Health check passed,1
+2026-07-04 13:49:18,ERROR,Payment gateway timeout,1
+2026-07-04 13:49:22,WARNING,Cache miss for key user_589,1
+2026-07-04 13:49:51,INFO,User login successful for user_622,1
+2026-07-04 13:51:58,ERROR,Payment gateway timeout,1
+2026-07-04 13:52:24,INFO,API request received: GET /products,1
+2026-07-04 13:53:14,WARNING,Slow query detected: 697ms,1
+2026-07-04 13:53:37,INFO,Database connection established,1
+2026-07-04 13:53:43,INFO,Health check passed,1
+2026-07-04 13:55:05,WARNING,Slow query detected: 483ms,1
+2026-07-04 13:56:50,INFO,API request received: POST /orders,1
+2026-07-04 13:56:56,ERROR,Database connection failed,1
+2026-07-04 13:57:43,WARNING,Cache miss for key user_135,1
+2026-07-04 13:58:07,ERROR,Rate limit exceeded for user_456,-1
+2026-07-04 13:58:36,WARNING,Database connection retried,1
+2026-07-04 13:59:59,ERROR,Database connection failed,1
+2026-07-04 14:00:25,INFO,User login successful for user_343,1
+2026-07-04 14:00:27,INFO,API request received: GET /users,1
+2026-07-04 14:00:31,INFO,API request received: POST /orders,1
+2026-07-04 14:01:18,ERROR,Database connection failed,1
+2026-07-04 14:03:31,WARNING,Cache miss for key user_171,1
+2026-07-04 14:05:27,INFO,API request received: GET /users,1
+2026-07-04 14:05:30,WARNING,Cache miss for key user_764,1
+2026-07-04 14:06:00,INFO,Cache refreshed successfully,1
+2026-07-04 14:07:59,INFO,API request received: POST /orders,1
+2026-07-04 14:08:17,INFO,Cache refreshed successfully,1
+2026-07-04 14:08:29,ERROR,Payment gateway timeout,1
+2026-07-04 14:08:43,ERROR,Payment gateway timeout,1
+2026-07-04 14:11:03,INFO,Database connection established,1
+2026-07-04 14:11:54,INFO,Health check passed,1
+2026-07-04 14:15:50,INFO,User login successful for user_730,1
+2026-07-04 14:17:03,WARNING,Database connection retried,1
+2026-07-04 14:17:46,INFO,Health check passed,1
+2026-07-04 14:19:45,INFO,Cache refreshed successfully,1
+2026-07-04 14:22:10,INFO,Database connection established,1
+2026-07-04 14:23:54,INFO,Health check passed,1
+2026-07-04 14:24:11,ERROR,Payment gateway timeout,1
+2026-07-04 14:24:36,INFO,Health check passed,1
+2026-07-04 14:26:22,INFO,Database connection established,1
+2026-07-04 14:28:21,INFO,Health check passed,1
+2026-07-04 14:29:29,ERROR,Database connection failed,1
+2026-07-04 14:38:15,WARNING,Cache miss for key user_559,1
+2026-07-04 14:38:50,ERROR,SQL injection pattern detected in request,-1
+2026-07-04 14:41:27,INFO,User login successful for user_277,1
+2026-07-04 14:44:03,ERROR,Database connection failed,1
+2026-07-04 14:44:15,INFO,API request received: GET /products,1
+2026-07-04 14:44:41,ERROR,Payment gateway timeout,1
+2026-07-04 14:49:18,INFO,Cache refreshed successfully,1
+2026-07-04 14:49:19,WARNING,Slow query detected: 565ms,1
+2026-07-04 14:50:14,WARNING,Database connection retried,1
+2026-07-04 14:50:22,INFO,API request received: GET /products,1
+2026-07-04 14:55:12,ERROR,Payment gateway timeout,1
+2026-07-04 14:57:14,WARNING,Database connection retried,1
+2026-07-04 14:58:13,INFO,Cache refreshed successfully,1
+2026-07-04 15:01:20,INFO,API request received: POST /orders,1
+2026-07-04 15:02:20,ERROR,Payment gateway timeout,1
+2026-07-04 15:03:36,WARNING,Database connection retried,1
+2026-07-04 15:04:38,INFO,API request received: GET /users,1
+2026-07-04 15:05:40,WARNING,Database connection retried,1
+2026-07-04 15:06:47,ERROR,Database connection failed,1
+2026-07-04 15:08:53,WARNING,Cache miss for key user_613,1
+2026-07-04 15:09:40,ERROR,Suspicious IP access blocked from 192.168.190.37,-1
+2026-07-04 15:11:42,ERROR,Privilege escalation attempt blocked,-1
+2026-07-04 15:11:46,WARNING,Database connection retried,1
+2026-07-04 15:21:34,INFO,API request received: GET /products,1
+2026-07-04 15:22:37,ERROR,Payment gateway timeout,1
+2026-07-04 15:24:57,WARNING,Cache miss for key user_969,1
+2026-07-04 15:25:37,INFO,User login successful for user_531,1
+2026-07-04 15:27:30,INFO,Health check passed,1
+2026-07-04 15:28:55,INFO,Health check passed,1
+2026-07-04 15:29:36,INFO,User login successful for user_714,1
+2026-07-04 15:32:27,ERROR,Payment gateway timeout,1
+2026-07-04 15:34:43,WARNING,Slow query detected: 587ms,1
+2026-07-04 15:34:45,INFO,User login successful for user_513,1
+2026-07-04 15:35:50,WARNING,Database connection retried,1
+2026-07-04 15:36:50,INFO,Cache refreshed successfully,1
+2026-07-04 15:39:36,WARNING,Slow query detected: 201ms,1
+2026-07-04 15:39:53,INFO,Config file accessed outside business hours,-1
+2026-07-04 15:40:58,INFO,Database connection established,1
+2026-07-04 15:41:10,WARNING,Cache miss for key user_912,1
+2026-07-04 15:41:43,ERROR,Database connection failed,1
+2026-07-04 15:43:27,INFO,API request received: POST /orders,1
+2026-07-04 15:44:35,ERROR,Multiple failed login attempts for user_730,-1
+2026-07-04 15:46:31,INFO,Database connection established,1
+2026-07-04 15:49:22,WARNING,Cache miss for key user_30,1
+2026-07-04 15:52:10,INFO,API request received: POST /orders,1
+2026-07-04 15:52:13,WARNING,Slow query detected: 275ms,1
+2026-07-04 15:52:36,INFO,API request received: GET /users,1
+2026-07-04 15:55:19,ERROR,Payment gateway timeout,1
+2026-07-04 15:55:42,ERROR,Payment gateway timeout,1
+2026-07-04 15:57:11,INFO,Database connection established,1
+2026-07-04 15:59:12,INFO,Database connection established,1
+2026-07-04 15:59:58,INFO,Database connection established,1
+2026-07-04 16:00:46,INFO,API request received: POST /orders,1
+2026-07-04 16:01:48,INFO,Health check passed,1
+2026-07-04 16:02:34,INFO,API request received: POST /orders,1
+2026-07-04 16:02:59,INFO,User login successful for user_205,1
+2026-07-04 16:05:30,INFO,Cache refreshed successfully,1
+2026-07-04 16:05:48,INFO,Health check passed,1
+2026-07-04 16:07:14,ERROR,Payment gateway timeout,1
+2026-07-04 16:07:30,ERROR,Database connection failed,1
+2026-07-04 16:11:15,INFO,API request received: POST /orders,1
+2026-07-04 16:11:30,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 16:20:17,INFO,Health check passed,1
+2026-07-04 16:22:28,INFO,API request received: GET /products,1
+2026-07-04 16:24:43,INFO,Cache refreshed successfully,1
+2026-07-04 16:26:17,INFO,User login successful for user_774,1
+2026-07-04 16:28:20,INFO,API request received: GET /users,1
+2026-07-04 16:28:50,INFO,API request received: GET /products,1
+2026-07-04 16:31:10,INFO,API request received: GET /users,1
+2026-07-04 16:35:24,INFO,API request received: GET /users,1
+2026-07-04 16:35:32,INFO,API request received: GET /users,1
+2026-07-04 16:36:39,ERROR,Database connection failed,1
+2026-07-04 16:37:57,ERROR,Payment gateway timeout,1
+2026-07-04 16:38:34,INFO,API request received: GET /products,1
+2026-07-04 16:38:44,INFO,Cache refreshed successfully,1
+2026-07-04 16:39:51,INFO,Database connection established,1
+2026-07-04 16:40:34,ERROR,Payment gateway timeout,1
+2026-07-04 16:44:20,WARNING,Database connection retried,1
+2026-07-04 16:49:55,INFO,Cache refreshed successfully,1
+2026-07-04 16:50:55,WARNING,Cache miss for key user_667,1
+2026-07-04 16:52:04,INFO,API request received: GET /users,1
+2026-07-04 16:54:35,INFO,API request received: GET /products,1
+2026-07-04 16:55:59,INFO,API request received: GET /products,1
+2026-07-04 16:58:08,WARNING,Cache miss for key user_547,1
+2026-07-04 16:58:58,WARNING,Cache miss for key user_47,1
+2026-07-04 17:02:20,WARNING,Database connection retried,1
+2026-07-04 17:02:29,INFO,API request received: GET /users,1
+2026-07-04 17:08:12,INFO,Health check passed,1
+2026-07-04 17:10:05,INFO,Database connection established,1
+2026-07-04 17:11:56,INFO,API request received: GET /products,1
+2026-07-04 17:13:42,INFO,API request received: POST /orders,1
+2026-07-04 17:16:42,WARNING,Slow query detected: 260ms,1
+2026-07-04 17:17:59,WARNING,Database connection retried,1
+2026-07-04 17:18:56,INFO,Health check passed,1
+2026-07-04 17:21:01,INFO,API request received: GET /users,1
+2026-07-04 17:21:24,ERROR,Payment gateway timeout,1
+2026-07-04 17:22:40,ERROR,Payment gateway timeout,1
+2026-07-04 17:23:15,INFO,Health check passed,1
+2026-07-04 17:26:06,INFO,API request received: GET /products,1
+2026-07-04 17:28:44,INFO,Cache refreshed successfully,1
+2026-07-04 17:28:57,INFO,API request received: POST /orders,1
+2026-07-04 17:32:59,ERROR,Payment gateway timeout,1
+2026-07-04 17:36:23,WARNING,Slow query detected: 823ms,1
+2026-07-04 17:38:20,WARNING,Slow query detected: 628ms,1
+2026-07-04 17:39:10,INFO,Health check passed,1
+2026-07-04 17:41:19,WARNING,Slow query detected: 547ms,1
+2026-07-04 17:45:49,WARNING,Slow query detected: 490ms,1
+2026-07-04 17:50:47,INFO,API request received: GET /products,1
+2026-07-04 17:51:03,ERROR,Brute force login pattern detected for user_484,-1
+2026-07-04 17:52:28,INFO,Health check passed,1
+2026-07-04 17:52:39,INFO,Health check passed,1
+2026-07-04 17:54:27,INFO,User login successful for user_229,1
+2026-07-04 17:55:00,ERROR,Database connection failed,1
+2026-07-04 17:56:36,INFO,API request received: GET /products,1
+2026-07-04 17:57:39,INFO,API request received: GET /products,1
+2026-07-04 17:59:22,INFO,Cache refreshed successfully,1
+2026-07-04 18:03:27,ERROR,Database connection failed,1
+2026-07-04 18:05:03,INFO,API request received: POST /orders,1
+2026-07-04 18:06:11,WARNING,Slow query detected: 924ms,1
+2026-07-04 18:08:57,INFO,Database connection established,1
+2026-07-04 18:11:43,INFO,Health check passed,1
+2026-07-04 18:14:49,WARNING,Database connection retried,1
+2026-07-04 18:14:50,INFO,API request received: GET /products,1
+2026-07-04 18:16:01,INFO,API request received: GET /users,1
+2026-07-04 18:18:44,INFO,Database connection established,1
+2026-07-04 18:21:59,ERROR,Database connection failed,1
+2026-07-04 18:23:44,ERROR,Database connection failed,1
+2026-07-04 18:25:40,WARNING,Cache miss for key user_666,1
+2026-07-04 18:27:05,INFO,Health check passed,1
+2026-07-04 18:27:19,WARNING,Cache miss for key user_636,1
+2026-07-04 18:28:40,INFO,Database connection established,1
+2026-07-04 18:29:20,WARNING,Database connection retried,1
+2026-07-04 18:32:05,INFO,User login successful for user_443,1
+2026-07-04 18:32:08,WARNING,Slow query detected: 5ms,1
+2026-07-04 18:34:45,ERROR,Database connection failed,1
+2026-07-04 18:41:40,WARNING,Cache miss for key user_331,1
+2026-07-04 18:47:05,ERROR,Payment gateway timeout,1
+2026-07-04 18:48:26,INFO,User login successful for user_886,1
+2026-07-04 18:49:25,WARNING,Unusual outbound traffic detected: 575MB,-1
+2026-07-04 18:50:05,INFO,Cache refreshed successfully,1
+2026-07-04 18:51:56,WARNING,Slow query detected: 45ms,1
+2026-07-04 18:52:49,INFO,API request received: POST /orders,1
+2026-07-04 18:55:01,WARNING,Slow query detected: 120ms,1
+2026-07-04 18:55:43,ERROR,Payment gateway timeout,1
+2026-07-04 18:55:44,INFO,User login successful for user_772,1
+2026-07-04 19:00:30,INFO,API request received: POST /orders,1
+2026-07-04 19:00:30,ERROR,Database connection failed,1
+2026-07-04 19:01:05,ERROR,Database connection failed,1
+2026-07-04 19:01:30,INFO,API request received: POST /orders,1
+2026-07-04 19:03:17,INFO,API request received: GET /users,1
+2026-07-04 19:03:35,INFO,API request received: GET /products,1
+2026-07-04 19:04:13,ERROR,Database connection failed,1
+2026-07-04 19:04:22,INFO,API request received: GET /users,1
+2026-07-04 19:05:23,WARNING,Database connection retried,1
+2026-07-04 19:05:33,INFO,Cache refreshed successfully,1
+2026-07-04 19:05:55,INFO,API request received: POST /orders,1
+2026-07-04 19:07:47,INFO,User login successful for user_458,1
+2026-07-04 19:09:07,INFO,Database connection established,1
+2026-07-04 19:11:44,WARNING,Cache miss for key user_98,1
+2026-07-04 19:11:48,WARNING,Slow query detected: 978ms,1
+2026-07-04 19:12:48,INFO,User login successful for user_68,1
+2026-07-04 19:14:00,INFO,Cache refreshed successfully,1
+2026-07-04 19:14:04,ERROR,Payment gateway timeout,1
+2026-07-04 19:15:02,WARNING,Cache miss for key user_971,1
+2026-07-04 19:15:09,WARNING,Database connection retried,1
+2026-07-04 19:18:46,INFO,Health check passed,1
+2026-07-04 19:25:06,ERROR,Payment gateway timeout,1
+2026-07-04 19:25:49,INFO,User login successful for user_903,1
+2026-07-04 19:28:23,INFO,API request received: GET /products,1
+2026-07-04 19:29:09,INFO,Database connection established,1
+2026-07-04 19:30:29,ERROR,Database connection failed,1
+2026-07-04 19:31:31,INFO,API request received: POST /orders,1
+2026-07-04 19:32:13,INFO,API request received: POST /orders,1
+2026-07-04 19:33:25,WARNING,Cache miss for key user_573,1
+2026-07-04 19:33:46,ERROR,Database connection failed,1
+2026-07-04 19:34:19,INFO,Cache refreshed successfully,1
+2026-07-04 19:37:42,INFO,Health check passed,1
+2026-07-04 19:42:03,INFO,API request received: GET /users,1
+2026-07-04 19:42:04,ERROR,Database connection failed,1
+2026-07-04 19:42:05,WARNING,Slow query detected: 886ms,1
+2026-07-04 19:43:45,INFO,API request received: POST /orders,1
+2026-07-04 19:44:35,INFO,User login successful for user_702,1
+2026-07-04 19:44:35,INFO,Database connection established,1
+2026-07-04 19:45:08,INFO,Cache refreshed successfully,1
+2026-07-04 19:45:45,ERROR,Database connection failed,1
+2026-07-04 19:45:51,INFO,Database connection established,1
+2026-07-04 19:47:14,WARNING,Database connection retried,1
+2026-07-04 19:47:15,ERROR,Payment gateway timeout,1
+2026-07-04 19:48:00,ERROR,Database connection failed,1
+2026-07-04 19:50:52,ERROR,Database connection failed,1
+2026-07-04 19:51:33,ERROR,Database connection failed,1
+2026-07-04 19:52:34,INFO,Database connection established,1
+2026-07-04 19:56:51,INFO,API request received: POST /orders,1
+2026-07-04 19:57:18,INFO,Health check passed,1
+2026-07-04 19:57:20,INFO,User login successful for user_798,1
+2026-07-04 19:58:16,WARNING,Database connection retried,1
+2026-07-04 19:59:41,INFO,API request received: POST /orders,1
+2026-07-04 19:59:51,WARNING,Database connection retried,1
+2026-07-04 20:02:37,ERROR,Payment gateway timeout,1
+2026-07-04 20:03:52,WARNING,Cache miss for key user_273,1
+2026-07-04 20:04:30,WARNING,Slow query detected: 797ms,1
+2026-07-04 20:05:12,INFO,Health check passed,1
+2026-07-04 20:05:19,WARNING,Database connection retried,1
+2026-07-04 20:06:50,WARNING,Cache miss for key user_186,1
+2026-07-04 20:06:57,INFO,Cache refreshed successfully,1
+2026-07-04 20:07:30,ERROR,Database connection failed,1
+2026-07-04 20:07:54,ERROR,Database connection failed,1
+2026-07-04 20:08:21,INFO,API request received: POST /orders,1
+2026-07-04 20:08:30,WARNING,Slow query detected: 528ms,1
+2026-07-04 20:11:00,ERROR,Payment gateway timeout,1
+2026-07-04 20:11:49,INFO,API request received: GET /users,1
+2026-07-04 20:13:39,INFO,API request received: GET /products,1
+2026-07-04 20:15:48,ERROR,Rate limit exceeded for user_397,-1
+2026-07-04 20:15:59,INFO,Health check passed,1
+2026-07-04 20:16:23,WARNING,Slow query detected: 459ms,1
+2026-07-04 20:17:18,INFO,API request received: GET /users,1
+2026-07-04 20:18:16,INFO,User login successful for user_35,1
+2026-07-04 20:21:55,INFO,User login successful for user_955,1
+2026-07-04 20:22:15,ERROR,Payment gateway timeout,1
+2026-07-04 20:22:54,INFO,API request received: GET /users,1
+2026-07-04 20:23:08,WARNING,Slow query detected: 912ms,1
+2026-07-04 20:23:33,ERROR,Payment gateway timeout,1
+2026-07-04 20:25:30,ERROR,Multiple failed login attempts for user_259,-1
+2026-07-04 20:26:38,ERROR,Database connection failed,1
+2026-07-04 20:36:24,INFO,API request received: GET /products,1
+2026-07-04 20:36:38,WARNING,Database connection retried,1
+2026-07-04 20:38:57,WARNING,Cache miss for key user_645,1
+2026-07-04 20:39:59,INFO,API request received: GET /users,1
+2026-07-04 20:43:10,INFO,API request received: GET /products,1
+2026-07-04 20:43:50,WARNING,Database connection retried,1
+2026-07-04 20:46:50,WARNING,Database connection retried,1
+2026-07-04 20:47:46,INFO,Health check passed,1
+2026-07-04 20:48:03,ERROR,Rate limit exceeded for user_567,-1
+2026-07-04 20:49:19,ERROR,Payment gateway timeout,1
+2026-07-04 20:49:43,INFO,Health check passed,1
+2026-07-04 20:51:08,WARNING,Database connection retried,1
+2026-07-04 20:53:52,INFO,Health check passed,1
+2026-07-04 20:55:05,INFO,API request received: GET /users,1
+2026-07-04 20:56:59,INFO,User login successful for user_313,1
+2026-07-04 20:57:35,INFO,User login successful for user_586,1
+2026-07-04 20:59:31,WARNING,Slow query detected: 307ms,1
+2026-07-04 21:12:44,ERROR,Malformed request payload from unknown source,-1
+2026-07-04 21:31:40,INFO,Health check passed,1
+2026-07-04 22:06:55,INFO,User login successful for user_138,1
+2026-07-04 22:09:22,WARNING,Slow query detected: 32ms,1
+2026-07-04 22:22:32,INFO,Database connection established,1
+2026-07-04 22:27:07,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 22:40:54,ERROR,Unauthorized access attempt detected,-1
+2026-07-04 22:41:47,INFO,Cache refreshed successfully,1
+2026-07-04 22:47:31,WARNING,Slow query detected: 173ms,1
+2026-07-04 23:23:24,WARNING,Slow query detected: 316ms,1
+2026-07-04 23:27:19,WARNING,Cache miss for key user_129,1
+2026-07-04 23:34:32,ERROR,Multiple failed login attempts for user_392,-1
+2026-07-04 23:38:13,INFO,API request received: GET /products,1
+2026-07-04 23:38:59,INFO,Health check passed,1
+2026-07-04 23:53:19,WARNING,Cache miss for key user_345,1
+2026-07-04 23:53:34,ERROR,Brute force login pattern detected for user_942,-1
+2026-07-04 23:57:06,ERROR,Payment gateway timeout,1

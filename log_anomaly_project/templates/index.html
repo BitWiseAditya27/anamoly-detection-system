@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LogSentry — Log Anomaly Detection</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="topnav">
+    <div class="logo">
+      <div class="mark">LS</div>
+      LogSentry
+    </div>
+    {% if model_ready %}
+      <div class="env-badge"><span class="pip"></span> model ready · {{ model_name }}</div>
+    {% else %}
+      <div class="env-badge off"><span class="pip"></span> model not trained</div>
+    {% endif %}
+  </div>
+
+  <div class="page">
+    <div class="page-header">
+      <h1>Log Anomaly &amp; Threat Detection</h1>
+      <p>Upload a log file. An unsupervised machine learning model scores every line and flags what deviates from normal system behavior — no labeled data required.</p>
+    </div>
+
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        {% for m in messages %}
+          <div class="flash">{{ m }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <div class="card">
+      <p class="card-label">Upload log file</p>
+      <form action="/analyze" method="post" enctype="multipart/form-data" id="uploadForm">
+        <div class="dropzone" id="dropzone">
+          <svg class="upload-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6">
+            <path d="M12 16V4M12 4l-4 4M12 4l4 4" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M4 16v3a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-3" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <p>Drag and drop a .log or .txt file</p>
+          <span class="hint">or <label for="logfile" class="browse">browse from your computer</label></span>
+          <input type="file" name="logfile" id="logfile" accept=".log,.txt" required />
+          <div class="filename-chip" id="filenameChip"></div>
+        </div>
+        <button type="submit" class="run">Run analysis</button>
+      </form>
+      <div class="meta-row">
+        <span><span class="dot">●</span> expects format: <code>YYYY-MM-DD HH:MM:SS LEVEL message</code></span>
+        <span>try the sample: <code>data/sample_upload.log</code></span>
+      </div>
+    </div>
+
+    <div class="card">
+      <p class="card-label">How detection works</p>
+      <div class="info-grid">
+        <div class="info-item">
+          <div class="name">Feature extraction</div>
+          <div class="desc">Log level, message length, keywords, rarity of message pattern, event bursts, off-hours timing.</div>
+        </div>
+        <div class="info-item">
+          <div class="name">Isolation Forest</div>
+          <div class="desc">Selected after comparing against LOF and One-Class SVM on a labeled evaluation set (F1 ≈ 0.81, ROC-AUC ≈ 0.99).</div>
+        </div>
+        <div class="info-item">
+          <div class="name">Unsupervised scoring</div>
+          <div class="desc">No manual rules or blacklists — the model learns what "normal" looks like and flags deviations.</div>
+        </div>
+        <div class="info-item">
+          <div class="name">Explainability</div>
+          <div class="desc">Each flagged line shows which features drove the decision, so results aren't a black box.</div>
+        </div>
+      </div>
+    </div>
+
+    <p class="footer-note">Files are processed locally for this session and are not stored beyond your results export.</p>
+  </div>
+
+  <script>
+    const dz = document.getElementById('dropzone');
+    const input = document.getElementById('logfile');
+    const chip = document.getElementById('filenameChip');
+
+    function showFile(name) {
+      chip.textContent = name;
+      chip.style.display = 'inline-block';
+    }
+
+    input.addEventListener('change', () => {
+      if (input.files.length) showFile(input.files[0].name);
+    });
+
+    ['dragenter', 'dragover'].forEach(evt =>
+      dz.addEventListener(evt, e => { e.preventDefault(); dz.classList.add('drag'); })
+    );
+    ['dragleave', 'drop'].forEach(evt =>
+      dz.addEventListener(evt, e => { e.preventDefault(); dz.classList.remove('drag'); })
+    );
+    dz.addEventListener('drop', e => {
+      if (e.dataTransfer.files.length) {
+        input.files = e.dataTransfer.files;
+        showFile(e.dataTransfer.files[0].name);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LogSentry — Results</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="topnav">
+    <div class="logo">
+      <div class="mark">LS</div>
+      LogSentry
+    </div>
+    <div class="env-badge"><span class="pip"></span> analysis complete</div>
+  </div>
+
+  <div class="page">
+    <div class="page-header">
+      <h1>Analysis Results</h1>
+      <p>Scored using <strong>{{ model_name }}</strong>. Rows highlighted in red deviate from the model's learned notion of normal behavior.</p>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat total">
+        <div class="top-row">
+          <span class="label">Lines scanned</span>
+          <span class="icon-chip">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+          </span>
+        </div>
+        <div class="num">{{ total }}</div>
+      </div>
+      <div class="stat threat">
+        <div class="top-row">
+          <span class="label">Flagged anomalies</span>
+          <span class="icon-chip">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 9v4M12 17h.01M10.3 3.9 2.7 17a2 2 0 0 0 1.7 3h15.2a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/></svg>
+          </span>
+        </div>
+        <div class="num">{{ n_anomalies }}</div>
+      </div>
+      <div class="stat pct">
+        <div class="top-row">
+          <span class="label">Anomaly rate</span>
+          <span class="icon-chip">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 3v18h18M7 15l4-4 3 3 5-6"/></svg>
+          </span>
+        </div>
+        <div class="num">{{ pct }}%</div>
+      </div>
+    </div>
+
+    <div class="card chart-wrap">
+      <p class="card-label">Level breakdown</p>
+      <img src="{{ url_for('static', filename=chart_filename) }}" alt="anomaly chart by log level" />
+    </div>
+
+    <div class="card">
+      <p class="card-label">Line-by-line results</p>
+      <div class="table-scroll">
+        <table class="log-table">
+          <thead>
+            <tr>
+              <th>#</th><th>Timestamp</th><th>Level</th><th>Message</th><th>Status</th><th>Score</th><th>Why flagged</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for r in rows %}
+            <tr class="{{ 'anomaly' if r.is_anomaly else '' }}">
+              <td>{{ r.line_no }}</td>
+              <td>{{ r.timestamp }}</td>
+              <td><span class="level-tag {{ r.level }}">{{ r.level }}</span></td>
+              <td class="msg-cell">{{ r.message }}</td>
+              <td>
+                {% if r.is_anomaly %}
+                  <span class="badge threat">threat</span>
+                {% else %}
+                  <span class="badge clean">normal</span>
+                {% endif %}
+              </td>
+              <td class="msg-cell">{{ r.score }}</td>
+              <td class="reason-cell">{{ r.reasons }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="actions">
+        <a href="/download/{{ csv_filename }}" class="primary">↓ Download CSV</a>
+        <a href="/">← Analyze another file</a>
+      </div>
+    </div>
+
+    <p class="footer-note">Scores are unsupervised anomaly signals, not confirmed malicious intent — review flagged lines before acting on them.</p>
+  </div>
+</body>
+</html>
